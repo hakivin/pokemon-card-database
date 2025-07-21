@@ -1,0 +1,562 @@
+[
+  {
+    "Name": "Lumineon V",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "170",
+    "Type": "Water",
+    "Abilities": [
+      {
+        "name": "Luminous Sign",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri saat memasukkan kartu ini dari Kartu Pegangan ke Cadangan. Pilih 1 lembar Supporter dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Aqua Return",
+        "cost": "Water / Colorless / Colorless",
+        "damage": "120",
+        "effect": "Kocok kembali Pokémon ini dan semua kartu yang dikenakannya ke Deck sendiri."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "takuyoa",
+    "Collector Number": "001/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010494.png",
+    "Description": ""
+  },
+  {
+    "Name": "Yamper",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serudukan Semaunya",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan ini gagal."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "kurumitsu",
+    "Collector Number": "002/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010495.png",
+    "Description": "Saat berlari, Yamper menghasilkan listrik pada bagian dasar ekornya. Populer sebagai anjing gembala di Galar."
+  },
+  {
+    "Name": "Boltund",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Lari Kencang Mengirim Listrik",
+        "cost": "Colorless",
+        "damage": "50",
+        "effect": "Pilih paling banyak 2 lembar Energi Dasar {Listrik} dari Deck sendiri, lalu kenakan sesukanya pada Pokémon Cadangan. Kemudian, kocok Deck."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Oswaldo KATO",
+    "Collector Number": "003/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010496.png",
+    "Description": "Boltund menghasilkan listrik yang dialirkan ke kakinya untuk dukungan saat berlari. Pokémon ini dapat terus berlari tanpa istirahat selama tiga hari tiga malam."
+  },
+  {
+    "Name": "Iron Hands",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "140",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Shock Wave",
+        "cost": "Lightning / Colorless",
+        "damage": "30",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      },
+      {
+        "name": "Tangan Aloi Super",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "80+",
+        "effect": "Jika Pokémon Bertarung lawan adalah Pokémon {ex}/{V}, kerusakan yang diberikan bertambah sejumlah 80."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Souichirou Gunjima",
+    "Collector Number": "004/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010497.png",
+    "Description": "Pokémon yang memiliki banyak poin kemiripan dengan objek bernama Iron Hands yang tertera dalam sebuah jurnal ekspedisi."
+  },
+  {
+    "Name": "Latias",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mengambil",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Ambil 2 kartu dari atas Deck sendiri."
+      },
+      {
+        "name": "Lagoon Flight",
+        "cost": "Psychic / Colorless",
+        "damage": "60",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Darkness (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Takumi Wada",
+    "Collector Number": "005/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010498.png",
+    "Description": "Ia saling mengomunikasikan perasaannya dengan telepati. Pokémon ini menghilangkan wujudnya dengan membungkus tubuhnya menggunakan bulu yang membiaskan cahaya."
+  },
+  {
+    "Name": "Elgyem",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Bersembunyi",
+        "cost": "Psychic",
+        "damage": "",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan dan efek akibat serangan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Darkness (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Tomokazu Komiya",
+    "Collector Number": "006/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010499.png",
+    "Description": "Ketika berada di samping televisi, pemandangan aneh akan ditampilkan di layar. Dikatakan bahwa itu adalah tampilan kampung halaman Elgyem."
+  },
+  {
+    "Name": "Beheeyem",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "100",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cosmobeat",
+        "cost": "Psychic",
+        "damage": "20×",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 20 untuk tiap Pokémon di Arena sendiri."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Darkness (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shinya Komatsu",
+    "Collector Number": "007/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010500.png",
+    "Description": "Entah sejak kapan seekor Dubwool menghilang dari peternakan yang didatangi oleh Beheeyem."
+  },
+  {
+    "Name": "Iron Valiant",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Gemini Laser",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": "Serangan ini juga memberikan kerusakan sejumlah 20 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      },
+      {
+        "name": "Pisau Spiritual",
+        "cost": "Psychic / Psychic / Colorless",
+        "damage": "120",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan Pisau Spiritual."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "takuyoa",
+    "Collector Number": "008/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010501.png",
+    "Description": "Terdapat kemungkinan bahwa Pokémon ini adalah objek misterius bernama Iron Valiant yang tertera dalam suatu jurnal ekspedisi."
+  },
+  {
+    "Name": "Miraidon ex",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "220",
+    "Type": "Dragon",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Reject Bolt",
+        "cost": "Lightning / Psychic",
+        "damage": "60+",
+        "effect": "Jika Pokémon Bertarung lawan memiliki Token Kerusakan, kerusakan yang diberikan bertambah sejumlah 100."
+      },
+      {
+        "name": "Cyberdrive",
+        "cost": "Lightning / Psychic / Colorless",
+        "damage": "220",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan Cyberdrive."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "PLANETA Mochizuki",
+    "Collector Number": "009/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010502.png",
+    "Description": ""
+  },
+  {
+    "Name": "Iron Jugulis",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Colorless",
+    "Abilities": [
+      {
+        "name": "Automartial",
+        "effect": "Saat Pokémon ini ada di Arena Bertarung dan menerima kerusakan akibat serangan dari Pokémon lawan, letakkan 3 Token Kerusakan pada Pokémon yang telah menggunakan serangan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Blast Wind",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "110",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "KEIICHIRO ITO",
+    "Collector Number": "010/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010503.png",
+    "Description": "Kemungkinan Pokémon ini adalah objek bernama Iron Jugulis yang tertera dalam buku kuno."
+  },
+  {
+    "Name": "Techno Radar",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini dapat digunakan jika pemain membuang 1 lembar Kartu Pegangan sendiri ke Trash. \r\n\r\nPilih paling banyak 2 lembar Pokémon Futur dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "inose yukie",
+    "Collector Number": "011/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010504.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Nest",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "012/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010505.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Ultra",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash. \n\nPilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ayaka Yoshida",
+    "Collector Number": "013/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010506.png",
+    "Description": ""
+  },
+  {
+    "Name": "Tukar Pokémon",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "014/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010507.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Master",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "015/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010508.png",
+    "Description": ""
+  },
+  {
+    "Name": "Pemacu Energi Futur",
+    "Stage": "",
+    "Card Type": "Pokémon Tool",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pokémon Futur yang mengenakan kartu ini menjadi tidak membutuhkan Energi untuk Mundur dan kerusakan akibat serangan yang digunakan oleh Pokémon tersebut kepada Pokémon Bertarung lawan bertambah sejumlah 20."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "016/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010509.png",
+    "Description": ""
+  },
+  {
+    "Name": "Aspirasi Cynthia",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 5 lembar. Jika pada giliran lawan sebelumnya, ada Pokémon sendiri yang KO, ambil kartu hingga jumlah Kartu Pegangan sendiri menjadi 8 lembar."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "017/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010510.png",
+    "Description": ""
+  },
+  {
+    "Name": "Mistika",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kedua pemain masing-masing mengocok semua Kartu Pegangan sendiri dengan sisi depan menghadap ke bawah, lalu mengembalikannya ke bawah Deck. Setelah itu, kedua pemain masing-masing mengambil kartu dari atas Deck untuk tiap lembar sisa Kartu Point sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "018/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010511.png",
+    "Description": ""
+  },
+  {
+    "Name": "Nemola",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Ambil 3 kartu dari atas Deck sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "019/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010512.png",
+    "Description": ""
+  },
+  {
+    "Name": "Penelitian Profesor (Profesor Futu)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "kirisAki",
+    "Collector Number": "020/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010513.png",
+    "Description": ""
+  },
+  {
+    "Name": "Skenario Profesor Futu",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 Pokémon di Arena sendiri, lalu kembalikan ke Kartu Pegangan. (Buang semua kartu selain Pokémon ke Trash.)"
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "hncl",
+    "Collector Number": "021/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010514.png",
+    "Description": ""
+  },
+  {
+    "Name": "Perintah Bos (Ghetsis)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "NC Empire",
+    "Collector Number": "022/022",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010515.png",
+    "Description": ""
+  },
+  {
+    "Name": "Energi Dasar Listrik",
+    "Stage": "",
+    "Card Type": "Energi Dasar",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "",
+    "Collector Number": "LIG",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010516.png",
+    "Description": ""
+  },
+  {
+    "Name": "Energi Dasar Psychic",
+    "Stage": "",
+    "Card Type": "Energi Dasar",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "",
+    "Collector Number": "PSY",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00010517.png",
+    "Description": ""
+  }
+]

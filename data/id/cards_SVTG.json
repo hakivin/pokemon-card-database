@@ -1,0 +1,473 @@
+[
+  {
+    "Name": "Garchomp ex",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "320",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Terastal",
+        "cost": "",
+        "damage": "",
+        "effect": "Selama Pokémon ini ada di Cadangan, Pokémon ini tidak menerima kerusakan akibat serangan."
+      },
+      {
+        "name": "Hydro Lander",
+        "cost": "Fighting",
+        "damage": "160",
+        "effect": "Pilih paling banyak 3 lembar Energi Dasar {Petarung} dari Trash sendiri, lalu kenakan sesukanya pada Pokémon Cadangan."
+      },
+      {
+        "name": "Sonic Dive",
+        "cost": "Colorless / Colorless",
+        "damage": "",
+        "effect": "Buang 2 Energi yang dikenakan pada Pokémon ini ke Trash, serangan ini memberikan kerusakan sejumlah 120 kepada 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "",
+    "Illustrator": "PLANETA Mochizuki",
+    "Collector Number": "001/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014004.png",
+    "Description": ""
+  },
+  {
+    "Name": "Greninja Bercahaya",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Water",
+    "Abilities": [
+      {
+        "name": "Kartu Tersembunyi",
+        "effect": "Pada giliran sendiri, jika pemain membuang 1 lembar Energi dari Kartu Pegangan sendiri ke Trash, Ability ini dapat digunakan 1 kali. Ambil 2 kartu dari atas Deck sendiri."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Syuriken Cahaya Bulan",
+        "cost": "Water / Water / Colorless",
+        "damage": "",
+        "effect": "Buang 2 Energi yang dikenakan pada Pokémon ini ke Trash, serangan ini memberikan kerusakan masing-masing sejumlah 90 kepada 2 Pokémon lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Souichirou Gunjima",
+    "Collector Number": "002/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014005.png",
+    "Description": "Greninja hilang muncul bagaikan ninja. Pokémon ini mempermainkan musuh menggunakan gerakan cepatnya sambil menyayat dengan syuriken airnya."
+  },
+  {
+    "Name": "Hisuian Arcanine V",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "230",
+    "Type": "Fighting",
+    "Abilities": [
+      {
+        "name": "Singa Garang",
+        "effect": "Dapat digunakan berkali-kali pada giliran sendiri. Pilih 1 Energi {Petarung} yang dikenakan pada Pokémon di Arena sendiri, lalu pindahkan ke Pokémon ini."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Rock Bullet",
+        "cost": "Colorless / Colorless / Colorless / Colorless",
+        "damage": "90+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 30 untuk tiap Energi {Petarung} yang dikenakan pada Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "003/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014006.png",
+    "Description": ""
+  },
+  {
+    "Name": "Groudon",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kekuatan Bergejolak",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Pilih 1 lembar Energi Dasar {Petarung} dari Kartu Pegangan sendiri, lalu kenakan pada Pokémon sendiri."
+      },
+      {
+        "name": "Magma Purge",
+        "cost": "Fighting / Fighting / Colorless",
+        "damage": "60×",
+        "effect": "Buang paling banyak 4 lembar Energi yang dikenakan pada Pokémon di Arena sendiri ke Trash, serangan ini memberikan kerusakan sejumlah 60 untuk tiap lembarnya."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Uta",
+    "Collector Number": "004/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014007.png",
+    "Description": "Setelah pertarungan mematikan dengan Kyogre, Groudon tidur panjang. Pokémon legendaris yang dikenal sebagai Jelmaan Daratan."
+  },
+  {
+    "Name": "Gible",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggigit",
+        "cost": "Fighting",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "saino misaki",
+    "Collector Number": "005/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014008.png",
+    "Description": "Gible menerjang lalu menggigit mangsa dan musuh yang melewati sarangnya. Terkadang giginya terlepas akibat menggigit terlalu kuat."
+  },
+  {
+    "Name": "Gabite",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "100",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Power Blast",
+        "cost": "Fighting",
+        "damage": "50",
+        "effect": "Pilih 1 Energi yang dikenakan pada Pokémon ini, lalu buang ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Nisota Niso",
+    "Collector Number": "006/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014009.png",
+    "Description": "Terkadang Gabite berganti kulit dan sisiknya terkelupas. Kandungan dalam sisik Pokémon ini dijadikan obat yang berkhasiat membuat tubuh lelah menjadi segar bugar."
+  },
+  {
+    "Name": "Riolu",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tendangan Rendah",
+        "cost": "Fighting / Fighting",
+        "damage": "50",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Teeziro",
+    "Collector Number": "007/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014010.png",
+    "Description": "Riolu sangat aktif dan memiliki stamina untuk berlari semalam penuh. Menemaninya jalan-jalan sangatlah berat."
+  },
+  {
+    "Name": "Lucario",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Fighting",
+    "Abilities": [
+      {
+        "name": "Semangat Bertarung Menggebu",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Letakkan 2 Token Kerusakan pada Pokémon ini. Setelah itu, pilih 1 lembar Energi {Petarung} dari Deck sendiri, lalu kenakan pada Pokémon ini. Kemudian, kocok Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Bola Aura Beruntun",
+        "cost": "Fighting / Fighting",
+        "damage": "10+",
+        "effect": "Buang semua Energi {Petarung} yang dikenakan pada Pokémon ini ke Trash, untuk tiap lembarnya kerusakan yang diberikan bertambah sejumlah 60."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "NC Empire",
+    "Collector Number": "008/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014011.png",
+    "Description": "Lucario memburu mangsanya menggunakan kekuatan aura yang dapat menghancurkan batu besar menjadi debu."
+  },
+  {
+    "Name": "Kail Hiper",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih paling banyak total 3 lembar Pokémon dan Energi Dasar dari Trash sendiri, perlihatkan ke lawan, lalu kocok kembali ke Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "009/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014012.png",
+    "Description": ""
+  },
+  {
+    "Name": "Wadah Daratan",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini dapat digunakan jika pemain membuang 1 lembar Kartu Pegangan sendiri ke Trash.\r\n\r\nPilih paling banyak 2 lembar Energi Dasar dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Collector Number": "010/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014013.png",
+    "Description": ""
+  },
+  {
+    "Name": "Poffin Bersahabat",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih paling banyak 2 lembar Pokémon Basic dengan HP 70 atau kurang dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Collector Number": "011/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014014.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Nest",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "012/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014015.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Ultra",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash.\n\nPilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ayaka Yoshida",
+    "Collector Number": "013/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014016.png",
+    "Description": ""
+  },
+  {
+    "Name": "Permen Langka",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 lembar Pokémon Stage 2 dari Kartu Pegangan sendiri, lalu letakkan ke Pokémon Basic di Arena sendiri yang berevolusi menjadi Pokémon tersebut, lakukan evolusi tanpa perlu melakukan evolusi Stage 1. (Tidak dapat digunakan pada giliran pertama pemain dan pada Pokémon yang baru dimasukkan.)"
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "014/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014017.png",
+    "Description": ""
+  },
+  {
+    "Name": "Tukar Pokémon",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "015/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014018.png",
+    "Description": ""
+  },
+  {
+    "Name": "Irida",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih masing-masing 1 lembar Pokémon {Air} dan Item dari Deck sendiri, lalu tambahkan ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "kirisAki",
+    "Collector Number": "016/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014019.png",
+    "Description": ""
+  },
+  {
+    "Name": "Mistika",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kedua pemain masing-masing mengocok semua Kartu Pegangan sendiri dengan sisi depan menghadap ke bawah, lalu mengembalikannya ke bawah Deck. Setelah itu, kedua pemain masing-masing mengambil kartu dari atas Deck untuk tiap lembar sisa Kartu Point sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "017/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014020.png",
+    "Description": ""
+  },
+  {
+    "Name": "Penelitian Profesor (Profesor Olim)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "kirisAki",
+    "Collector Number": "018/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014021.png",
+    "Description": ""
+  },
+  {
+    "Name": "Perintah Bos (Ghetsis)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "NC Empire",
+    "Collector Number": "019/019",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014022.png",
+    "Description": ""
+  },
+  {
+    "Name": "Energi Dasar {Petarung}",
+    "Stage": "",
+    "Card Type": "Energi Dasar",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "",
+    "Collector Number": "FIG",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014023.png",
+    "Description": ""
+  }
+]

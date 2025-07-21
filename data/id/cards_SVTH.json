@@ -1,0 +1,454 @@
+[
+  {
+    "Name": "Scyther",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Potong",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Slash Down",
+        "cost": "Colorless / Colorless",
+        "damage": "60",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan Slash Down."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Dsuke",
+    "Collector Number": "001/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014024.png",
+    "Description": "Sabit tajam pada kedua tangan Scyther akan makin meningkat ketajamannya jika makin banyak memotong benda keras."
+  },
+  {
+    "Name": "Scizor ex",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "270",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sayap Baja",
+        "cost": "Colorless / Colorless",
+        "damage": "70",
+        "effect": "Pada giliran lawan berikutnya, kerusakan akibat serangan yang diterima Pokémon ini berkurang sejumlah 50."
+      },
+      {
+        "name": "Cross Breaker",
+        "cost": "Metal / Metal",
+        "damage": "120×",
+        "effect": "Buang paling banyak 2 lembar Energi {Logam} yang dikenakan pada Pokémon ini ke Trash, serangan ini memberikan kerusakan sejumlah 120 untuk tiap lembarnya."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "PLANETA Tsuji",
+    "Collector Number": "002/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014025.png",
+    "Description": ""
+  },
+  {
+    "Name": "Beldum",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Memasang Cakar",
+        "cost": "Metal",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Iron Tackle",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "50",
+        "effect": "Pokémon ini juga menerima kerusakan sejumlah 10."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "hatachu",
+    "Collector Number": "003/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014026.png",
+    "Description": "Beldum menghasilkan kekuatan magnet dari bagian belakang tubuhnya untuk mengisap musuh mendekat dengan kuat lalu menusuknya hingga tembus dengan cakarnya yang tajam."
+  },
+  {
+    "Name": "Metang",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "100",
+    "Type": "Metal",
+    "Abilities": [
+      {
+        "name": "Metal Maker",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Lihat 4 kartu dari atas Deck sendiri, pilih sesukanya Energi Dasar {Logam} di antaranya, lalu kenakan sesukanya pada Pokémon sendiri. Kocok semua sisa kartu dengan sisi depan menghadap ke bawah, lalu kembalikan ke bawah Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Beam",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "60",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Nobuhiro Imagawa",
+    "Collector Number": "004/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014027.png",
+    "Description": "Dua ekor Beldum yang menempel menggunakan kekuatan magnet. Berkat dua otaknya, kekuatan psikokinesis Metang menguat dua kali lipat."
+  },
+  {
+    "Name": "Heatran",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "140",
+    "Type": "Metal",
+    "Abilities": [
+      {
+        "name": "Tubuh Berpijar",
+        "effect": "Saat Pokémon ini ada di Arena Bertarung dan menerima kerusakan akibat serangan dari Pokémon lawan, ubah kondisi Pokémon yang telah menggunakan serangan menjadi Luka Bakar."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Steel Burst",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "50×",
+        "effect": "Buang semua Energi {Logam} yang dikenakan pada Pokémon ini ke Trash, serangan ini memberikan kerusakan sejumlah 50 untuk tiap lembarnya."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless / Colorless / Colorless",
+    "Illustrator": "AKIRA EGAWA",
+    "Collector Number": "005/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014028.png",
+    "Description": "Heatran hidup di gua vulkanis. Pokémon ini menanamkan cakarnya yang berbentuk X dan merayap di dinding dan langit-langit."
+  },
+  {
+    "Name": "Zacian",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Battle Legion",
+        "cost": "Metal",
+        "damage": "20+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 10 untuk tiap Pokémon Cadangan sendiri. Kerusakan akibat serangan ini tidak terpengaruh oleh Kelemahan dan efek yang sedang dialami Pokémon Bertarung lawan."
+      },
+      {
+        "name": "Slicing Blade",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "100",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "nagimiso",
+    "Collector Number": "006/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014029.png",
+    "Description": "Zacian mengenakan persenjataan yang dahulu ia gunakan. Pokémon Gigantamax pun ia kalahkan dengan sekali tebas."
+  },
+  {
+    "Name": "Zamazenta V",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "220",
+    "Type": "Metal",
+    "Abilities": [
+      {
+        "name": "Kuda-kuda Penguasa",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Giliran pemain akan selesai jika menggunakan Ability ini. Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 5 kartu dari atas Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Revenge Burst",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "120+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 30 untuk tiap lembar Kartu Point yang telah diambil lawan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-30",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "PLANETA Mochizuki",
+    "Collector Number": "007/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014030.png",
+    "Description": ""
+  },
+  {
+    "Name": "Kail Hiper",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih paling banyak total 3 lembar Pokémon dan Energi Dasar dari Trash sendiri, perlihatkan ke lawan, lalu kocok kembali ke Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "008/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014031.png",
+    "Description": ""
+  },
+  {
+    "Name": "Poffin Bersahabat",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih paling banyak 2 lembar Pokémon Basic dengan HP 70 atau kurang dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Collector Number": "009/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014032.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Nest",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "010/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014033.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Ultra",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash.\n\nPilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ayaka Yoshida",
+    "Collector Number": "011/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014034.png",
+    "Description": ""
+  },
+  {
+    "Name": "Tukar Pokémon",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "012/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014035.png",
+    "Description": ""
+  },
+  {
+    "Name": "Gelang Kaku",
+    "Stage": "",
+    "Card Type": "Pokémon Tool",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kerusakan akibat serangan dari Pokémon lawan yang diterima Pokémon Stage 1 yang mengenakan kartu ini berkurang sejumlah 30."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "013/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014036.png",
+    "Description": ""
+  },
+  {
+    "Name": "Aspirasi Cynthia",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 5. Jika ada Pokémon sendiri yang KO pada giliran lawan sebelum ini, ambil kartu hingga jumlah Kartu Pegangan sendiri menjadi 8."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "014/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014037.png",
+    "Description": ""
+  },
+  {
+    "Name": "Mistika",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kedua pemain masing-masing mengocok semua Kartu Pegangan sendiri dengan sisi depan menghadap ke bawah, lalu mengembalikannya ke bawah Deck. Setelah itu, kedua pemain masing-masing mengambil kartu dari atas Deck untuk tiap lembar sisa Kartu Point sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "015/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014038.png",
+    "Description": ""
+  },
+  {
+    "Name": "Penelitian Profesor (Profesor Futu)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "kirisAki",
+    "Collector Number": "016/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014039.png",
+    "Description": ""
+  },
+  {
+    "Name": "Perintah Bos (Ghetsis)",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "NC Empire",
+    "Collector Number": "017/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014040.png",
+    "Description": ""
+  },
+  {
+    "Name": "Laboratorium Logam",
+    "Stage": "",
+    "Card Type": "Stadium",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kerusakan akibat serangan dari Pokémon lawan yang diterima Pokémon {Logam} kedua pemain berkurang sejumlah 30."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Collector Number": "018/018",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014041.png",
+    "Description": ""
+  },
+  {
+    "Name": "Energi Dasar {Logam}",
+    "Stage": "",
+    "Card Type": "Energi Dasar",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "",
+    "Collector Number": "MET",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00014042.png",
+    "Description": ""
+  }
+]

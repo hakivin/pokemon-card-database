@@ -1,0 +1,4408 @@
+[
+  {
+    "Name": "Tangela",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tamparan Lembut",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Mengikat",
+        "cost": "Grass / Colorless / Colorless",
+        "damage": "40",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "001/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003552.png",
+    "Description": "Ranting Tangela dapat dengan mudah putus jika dipegang. Ini terjadi tanpa rasa sakit, sehingga Pokémon ini dapat kabur dengan cepat. Ranting yang putus digantikan oleh ranting baru yang tumbuh kembali pada hari berikutnya."
+  },
+  {
+    "Name": "Tangrowth",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "140",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cambuk Berat",
+        "cost": "Grass / Colorless / Colorless",
+        "damage": "30+",
+        "effect": "Jika HP Pokémon ini pulih pada giliran ini, kerusakan yang diberikan bertambah sejumlah 130."
+      },
+      {
+        "name": "Hantaman Cambuk",
+        "cost": "Grass / Grass / Colorless / Colorless",
+        "damage": "110",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Atsuko Nishida",
+    "Collector Number": "002/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003553.png",
+    "Description": "Ranting-rantingnya tumbuh begitu pesat sehingga kadang-kadang matanya tidak dapat terlihat pada musim hangat."
+  },
+  {
+    "Name": "Chikorita",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sintesis",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Taruh 1 Energi {Daun} dari Deck ke Pokémon sendiri. Kemudian,kocok Deck."
+      },
+      {
+        "name": "Pisau Daun",
+        "cost": "Grass / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Aya Kusube",
+    "Collector Number": "003/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003554.png",
+    "Description": "Di dalam pertempuran, Chikorita melambai-lambaikan daunnya untuk menghalau lawan-lawannya. Tetapi, daun tersebut juga menghasilkan wangi yang semerbak, yang dapat menenangkan Pokémon-Pokémon yang sedang bertempur dan menciptakan suasana yang tenang dan be"
+  },
+  {
+    "Name": "Bayleef",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "100",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Aroma Penenang",
+        "cost": "Grass",
+        "damage": "20",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      },
+      {
+        "name": "Pisau Daun",
+        "cost": "Grass / Colorless / Colorless",
+        "damage": "50",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Kagemaru Himeno",
+    "Collector Number": "004/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003555.png",
+    "Description": "Leher Bayleef dikelilingi oleh dedaunan yang tergulung. Di dalam setiap gulungan daun, terdapat 1 tunas pohon. Wangi tunas pohon tersebut dapat menyenangkan hati orang-orang di sekitarnya."
+  },
+  {
+    "Name": "Meganium",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Grass",
+    "Abilities": [
+      {
+        "name": "Obat Daun Instan",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Lakukan evolusi dengan meletakkan 1 Pokémon STAGE 2 dari Kartu Pegangan sendiri diatas 1 Pokémon BASIC di Arena sendiri yang evolusinya sesuai. Pemain tidak dapat menggunakan Ability ini saat giliran pertama atau giliran yang sama Pokémon BASIC dimainkan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Sorotan Surya",
+        "cost": "Grass / Colorless / Colorless / Colorless",
+        "damage": "110",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "nagimiso",
+    "Collector Number": "005/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003556.png",
+    "Description": "Aroma bunga dari Meganium dapat menenangkan perasaan. Di dalam pertempuran, Pokémon ini menyebarkan aroma ini guna menumpulkan perasaan lawan untuk berperang."
+  },
+  {
+    "Name": "Treecko",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tampar",
+        "cost": "Grass",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Cambukan Ekor",
+        "cost": "Grass / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "tetsuya koizumi",
+    "Collector Number": "006/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003557.png",
+    "Description": "Treecko memiliki sifat tenang dan berwibawa. Ia tidak pernah panik dalam situasi apapun. Jika ada musuh yang lebih besar dan melotot padanya, Pokémon ini akan melotot balik tanpa mundur selangkah pun."
+  },
+  {
+    "Name": "Grovyle",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pisau Daun",
+        "cost": "Grass",
+        "damage": "20+",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 40."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "007/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003558.png",
+    "Description": "Pokémon ini dapat terbang dari pohon ke pohon dengan lincah. Di hutan, tidak ada Pokémon yang dapat menangkap Grovyle secepat apapun mereka."
+  },
+  {
+    "Name": "Sceptile",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "140",
+    "Type": "Grass",
+    "Abilities": [
+      {
+        "name": "Kekuatan Alam",
+        "effect": "Selama ada Pokémon ini, semua Pokémon sendiri yang dikenakan Energi {Daun} tidak akan menerima kerusakan dari serangan Ultra Beast lawan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Badai Kuat",
+        "cost": "Grass",
+        "damage": "20×",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 20 untuk tiap Energi yang dikenakan pada Pokémon di Arena sendiri."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Mitsuhiro Arita",
+    "Collector Number": "008/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003559.png",
+    "Description": "Sceptile memiliki bebijian yang tumbuh di punggungnya. Biji-biji tersebut kaya akan nutrisi yang dapat menyuburkan tanaman. Pokémon ini memelihara pepohonan di hutan dengan penuh kasih sayang."
+  },
+  {
+    "Name": "SceptileGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "230",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Potongan Sonik",
+        "cost": "Grass",
+        "damage": "60",
+        "effect": "Buang 1 Energi Spesial yang dikenakan pada Pokémon Bertarung lawan ke Trash."
+      },
+      {
+        "name": "Siklon Daun",
+        "cost": "Grass / Grass",
+        "damage": "130",
+        "effect": "Pindahkan 1 Energi {Daun} yang dikenakan pada Pokémon ini ke Pokémon Cadangan."
+      },
+      {
+        "name": "Pemulihan Hutan-GX",
+        "cost": "Grass",
+        "damage": "",
+        "effect": "HP semua Pokémon sendiri yang dikenakan Energi {Daun} pulih secara penuh. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Yoshinobu Saito",
+    "Collector Number": "009/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003560.png",
+    "Description": ""
+  },
+  {
+    "Name": "Volbeat",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tangkapan Feromon",
+        "cost": "Grass",
+        "damage": "20+",
+        "effect": "Jika Illumise sendiri menggunakan Sinyal Feromon pada giliran sendiri sebelumnya, kerusakan yang diberikan bertambah sejumlah 100."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Saya Tsuruta",
+    "Collector Number": "010/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003561.png",
+    "Description": "Ekor Volbeat bersinar seperti bola lampu. Bersama dengan Volbeat lainnya, ia menggunakan ekornya untuk menggambar bentuk-bentuk geometris di langit malam. Pokémon ini sangat menyukai aroma manis yang dihasilkan oleh Illumise."
+  },
+  {
+    "Name": "Illumise",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sinyal Feromon",
+        "cost": "Grass",
+        "damage": "20",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Saya Tsuruta",
+    "Collector Number": "011/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003562.png",
+    "Description": "Illumise memimpin sekelompok Volbeat yang bersinar dan menggambar lambang-lambang di langit malam. Dengan membuat desain-desain yang kompleks di langit, Pokémon ini dapat memperoleh rasa hormat yang lebih besar dari sesamanya."
+  },
+  {
+    "Name": "Carnivine",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kunyah-kunyah",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": "HP Pokémon ini pulih sejumlah 20."
+      },
+      {
+        "name": "Menutupi",
+        "cost": "Grass / Grass",
+        "damage": "90-",
+        "effect": "Kerusakan dari serangan ini berkurang sejumlah 10 untuk tiap Token Kerusakan pada Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Anesaki Dynamic",
+    "Collector Number": "012/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003563.png",
+    "Description": "Pokémon ini mengikatkan dirinya di pohon-pohon sekitar rawa. Ia menggunakan ludahnya yang beraroma manis untuk memikat mangsa sebelum menelannya bulat-bulat."
+  },
+  {
+    "Name": "Snover",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Beling Es",
+        "cost": "Grass / Colorless",
+        "damage": "20+",
+        "effect": "Jika Pokémon Bertarung lawan adalah Pokémon tipe {Pertarung}, kerusakan yang diberikan bertambah sejumlah 40."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "match",
+    "Collector Number": "013/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003564.png",
+    "Description": "Pada musim semi, Pokémon ini menumbuhkan buah beri dengan tekstur seperti es lilin di sekitar perutnya."
+  },
+  {
+    "Name": "Abomasnow",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Grass",
+    "Abilities": [
+      {
+        "name": "Berkah Dingin",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri saat memainkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Kenakan 1 Energi {Daun} dari Trash sendiri pada Pokémon sendiri."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Palu Hipnotis",
+        "cost": "Grass / Colorless / Colorless / Colorless",
+        "damage": "80",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Masakazu Fukuda",
+    "Collector Number": "014/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003565.png",
+    "Description": "Pokémon ini tinggal di pegunungan yang diselimuti oleh salju abadi. Ia dapat menciptakan badai salju untuk bersembunyi."
+  },
+  {
+    "Name": "LeafeonGX",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "200",
+    "Type": "Grass",
+    "Abilities": [
+      {
+        "name": "Napas Daun",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri jika Pokémon ini adalah Pokémon Bertarung. HP 1 Pokémon sendiri yang dikenakan Energi pulih sejumlah 50."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Sorotan Surya",
+        "cost": "Grass / Colorless / Colorless",
+        "damage": "110",
+        "effect": ""
+      },
+      {
+        "name": "Kembang Agung-GX",
+        "cost": "Grass",
+        "damage": "",
+        "effect": "Evolusikan tiap Pokémon BASIC yang ada di Cadangan sendiri dengan memilih dan meletakkan 1 Pokémon Evolusi yang sesuai dari Deck sendiri di atas masing-masing Pokémon. Kemudian, kocok Deck. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "015/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003566.png",
+    "Description": ""
+  },
+  {
+    "Name": "Pheromosa",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Grass",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tendangan Meloncat Tinggi",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Sinar Putih",
+        "cost": "Grass / Grass / Colorless",
+        "damage": "90+",
+        "effect": "Jika sisa Kartu Point sendiri adalah tepat 1, kerusakan yang diberikan bertambah sejumlah 90."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "",
+    "Illustrator": "Hitoshi Ariga",
+    "Collector Number": "016/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003567.png",
+    "Description": "Meskipun tidak berasal dari dunia ini dan berbahaya, Pokémon ini ternyata adalah organisme umum di dunia, tempat biasanya ia hidup."
+  },
+  {
+    "Name": "Charmander",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Taring Api",
+        "cost": "Fire / Colorless",
+        "damage": "20",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Luka Bakar."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "tetsuya koizumi",
+    "Collector Number": "017/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003568.png",
+    "Description": "Api yang menyala di ujung ekornya menandakan emosi dari Pokémon ini. Api tersebut menyala redup jika Charmander sedang senang. Dan jika ia marah, apinya menyala kuat."
+  },
+  {
+    "Name": "Charmeleon",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Fire",
+    "Abilities": [
+      {
+        "name": "Semangat Berapi Pejuang",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri saat memainkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Buang 5 kartu dari atas Deck sendiri. Kemudian, kenakan semua Energi {Api} di dalamnya pada Pokémon ini."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Semburan Api",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "80",
+        "effect": "Buang 1 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "kodama",
+    "Collector Number": "018/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003569.png",
+    "Description": "Charmeleon dapat menghancurkan lawannya tanpa ampun dengan cakarnya yang tajam. Jika berjumpa dengan lawan yang kuat, ia akan menjadi agresif dan api di ujung ekornya akan menyala dengan warna biru keputihan."
+  },
+  {
+    "Name": "Charizard",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "160",
+    "Type": "Fire",
+    "Abilities": [
+      {
+        "name": "Api Teguh",
+        "effect": "Kerusakan dari serangan Pokémon ini terhadap Pokémon Bertarung lawan bertambah sejumlah 30 untuk tiap Pokémon GX dan EX yang ada di Arena lawan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Ledakan Berapi",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "130",
+        "effect": "Buang 1 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Ryota Murayama",
+    "Collector Number": "019/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003570.png",
+    "Description": "Charizard terbang mengarungi langit untuk mencari lawan yang tangguh.Nafasnya berupa api yang sangat panas dan dapat melelehkan apapun.Tetapi ia tidak pernah menyemburkan api tersebut terhadap lawan yang lebih lemah darinya."
+  },
+  {
+    "Name": "Moltres",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Api Tambahan",
+        "cost": "Fire",
+        "damage": "30",
+        "effect": "Pemain dapat mengenakan 1 Energi {Api} dari Kartu Pegangan sendiri ke Pokémon Cadangan."
+      },
+      {
+        "name": "Sayap Berapi",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "90",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Misa Tsutsui",
+    "Collector Number": "020/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003571.png",
+    "Description": "Moltres ini merupakan Pokémon burung legendaris yang dapat mengontrol api. Jika Pokémon ini terluka, konon ia akan terjun ke lautan magma di mulut gunung berapi untuk membakar dan menyembuhkan diri."
+  },
+  {
+    "Name": "Slugma",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Lingkaran Magma",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak bisa Mundur."
+      },
+      {
+        "name": "Api",
+        "cost": "Fire / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Midori Harada",
+    "Collector Number": "021/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003572.png",
+    "Description": "Slugma tidak punya darah di tubuhnya. Sebaliknya, di dalam tubuh Pokémon ini mengalir magma panas yang membawa zat-zat gizi dan oksigen ke seluruh bagian tubuhnya."
+  },
+  {
+    "Name": "Magcargo",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fire",
+    "Abilities": [
+      {
+        "name": "Meratakan",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Pilih 1 kartu sesukanya dari Deck sendiri. Kemudian, kocok Deck dan taruh kartu yang dipilih ke paling atas Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Pembakaran",
+        "cost": "Fire / Colorless / Colorless",
+        "damage": "50",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Midori Harada",
+    "Collector Number": "022/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003573.png",
+    "Description": "Suhu tubuh Magcargo dapat mencapai 10.000 derajat Celcius. Air akan menguap seketika jika terkena tubuhnya. Jika Pokémon ini dijumpai pada waktu hujan, tetesan air hujan akan langsung menguap menjadi uap dan embun yang menyelubungi daerah sekitarnya."
+  },
+  {
+    "Name": "Torkoal",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Semprotan Api",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": "Buang 4 kartu dari atas Deck sendiri ke Trash. Kenakan sesukanya semua Energi {Api} di dalamnya ke Pokémon sendiri."
+      },
+      {
+        "name": "Kobaran Api Penghangus",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "80",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Luka Bakar."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "023/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003574.png",
+    "Description": "Pokémon ini membakar batu bara untuk memperoleh energi. Jika semua simpanan batu baranya telah terbakar habis, Pokémon ini tidak dapat bergerak."
+  },
+  {
+    "Name": "Heatran",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tekanan Perlindungan",
+        "cost": "Fire / Colorless",
+        "damage": "30",
+        "effect": "Pada giliran lawan berikutnya, kerusakan dari serangan yang diterima Pokémon ini akan berkurang sejumlah 30. (setelah disesuaikan dengan Kelemahan dan Resistansi.)"
+      },
+      {
+        "name": "Hantaman Mendidih",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "130",
+        "effect": "Buang 2 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "tetsuya koizumi",
+    "Collector Number": "024/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003575.png",
+    "Description": "Darah yang mendidih seperti magma bersirkulasi melalui tubuhnya. Pokémon ini tinggal di gua-gua vulkanik."
+  },
+  {
+    "Name": "Fennekin",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Bara Api",
+        "cost": "Fire",
+        "damage": "30",
+        "effect": "Buang 1 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "025/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003576.png",
+    "Description": "Saat berjalan, ia mengunyah ranting sebagai pengganti camilan. Pokémon ini mengintimidasi lawan-lawannya dengan mengembuskan udara panas dari telinganya."
+  },
+  {
+    "Name": "Braixen",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Api",
+        "cost": "Fire",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Semburan Api",
+        "cost": "Fire / Fire / Colorless",
+        "damage": "80",
+        "effect": "Buang 1 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Kagemaru Himeno",
+    "Collector Number": "026/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003577.png",
+    "Description": "Ketika ranting di ekornya dipetik, gesekan akan menyebabkan ranting tersebut terbakar. Nyala api tersebut digunakan untuk mengirim sinyal ke sekutunya."
+  },
+  {
+    "Name": "Delphox",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Fire",
+    "Abilities": [
+      {
+        "name": "Obor Mistis",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Ubah kondisi Pokémon Bertarung lawan menjadi Luka Bakar."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Badai Api",
+        "cost": "Fire / Fire / Colorless / Colorless",
+        "damage": "150",
+        "effect": "Buang 2 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "kawayoo",
+    "Collector Number": "027/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003578.png",
+    "Description": "Menggunakan kekuatan psikis, Pokémon ini dapat menghasilkan pusaran api bersuhu 3.000 derajat Celcius, membakar musuh yang melesat ke dalam pusaran api ini."
+  },
+  {
+    "Name": "Litten",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Siapkan Cakar",
+        "cost": "Colorless",
+        "damage": "10+",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, kekuatan serangan bertambah 10."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "sui",
+    "Collector Number": "028/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003579.png",
+    "Description": "Bulunya tumbuh dua kali setahun. Ketika saatnya tiba, Litten membakar sendiri bulu lamanya."
+  },
+  {
+    "Name": "Torracat",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Auman",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Tukar Pokémon Bertarung lawan dengan Pokémon Cadangan lawan. [Pokémon yang akan masuk Arena Bertarung akan ditentukan pemain lawan.]"
+      },
+      {
+        "name": "Cakar Penyayat",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "60",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "029/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003580.png",
+    "Description": "Ketika surainya berdiri, berarti Pokémon ini sedang dalam kondisi fit. Ketika tidak enak badan, bulunya akan menjadi rata."
+  },
+  {
+    "Name": "BlasefalonGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "180",
+    "Type": "Fire",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Ledakan Pembakar",
+        "cost": "Fire",
+        "damage": "",
+        "effect": "Ubah kondisi Pokémon Bertarung lawan menjadi Luka Bakar dan Pusing."
+      },
+      {
+        "name": "Kepala Meletus",
+        "cost": "Fire / Fire",
+        "damage": "50×",
+        "effect": "Taruh Energi {Api} yang dikenakan pada Pokémon di Arena sendiri sesukanya ke Lost Zone. Serangan ini memberikan kerusakan sejumlah 50 untuk tiap kartu yang ditaruh."
+      },
+      {
+        "name": "Meledak-GX",
+        "cost": "Fire",
+        "damage": "",
+        "effect": "Buang 1 Kartu Point sendiri ke Trash. Jika kartu tersebut adalah Energi, kenakan pada Pokémon sendiri. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Water (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "030/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003581.png",
+    "Description": ""
+  },
+  {
+    "Name": "Horsea",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "40",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Percikan Air",
+        "cost": "Water",
+        "damage": "",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 20 ke 1 Pokémon lawan. (Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.)"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Yukiko Baba",
+    "Collector Number": "031/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003582.png",
+    "Description": "Jika Horsea mendeteksi bahaya, ia akan secara refleks menyemprotkan tinta hitam yang pekat dari mulutnya dan berusaha untuk kabur. Pokémon ini dapat berenang dengan mengepakkan sirip belakangnya dengan cermat."
+  },
+  {
+    "Name": "Seadra",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pompa Air",
+        "cost": "Colorless",
+        "damage": "10+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 20 untuk tiap Energi {Air} yang dikenakan pada Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Yumi",
+    "Collector Number": "032/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003583.png",
+    "Description": "Seadra membuat pusaran air dengan cara memutar tubuhnya. Pusaran air yang dihasilkan cukup kuat bahkan untuk menarik kapal-kapal nelayan ke dalam air. Pokémon ini melemahkan mangsanya dengan pusaran ini, lalu menelannya bulat-bulat."
+  },
+  {
+    "Name": "KingdraGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "230",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pompa Air",
+        "cost": "Colorless",
+        "damage": "10+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 50 untuk tiap Energi {Air} yang dikenakan pada Pokémon ini."
+      },
+      {
+        "name": "Dorongan Balik",
+        "cost": "Water",
+        "damage": "30",
+        "effect": "Tukar Pokémon ini dengan Pokémon Cadangan."
+      },
+      {
+        "name": "Maelstrom-GX",
+        "cost": "Water",
+        "damage": "",
+        "effect": "Serangan ini memberikan kerusakan sejumlah sejumlah 40 ke tiap Pokémon lawan. [Kelemahan dan Resistansi Pokémon cadangan tidak mempengaruhi jumlah kerusakan.] [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "033/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003584.png",
+    "Description": ""
+  },
+  {
+    "Name": "Lapras",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Peluru Air",
+        "cost": "Water",
+        "damage": "20",
+        "effect": "Memberi kerusakan sejumlah 20 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      },
+      {
+        "name": "Pompa Air",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "70+",
+        "effect": "kerusakan yang diberikan bertambah sejumlah 10 untuk tiap Energi {Air} yang dikenakan pada Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Saya Tsuruta",
+    "Collector Number": "034/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003585.png",
+    "Description": "Karena terlalu dijaga, populasinya meningkat pesat. Pokémon jenis ikan berkurang banyak di perairan yang terlalu banyak ditinggali oleh Lapras."
+  },
+  {
+    "Name": "Wooper",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menyeruduk",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Guyuran Air",
+        "cost": "Water / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shibuzoh.",
+    "Collector Number": "035/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003586.png",
+    "Description": "Wooper biasanya tinggal di dalam air. Tetapi kadang-kadang keluar ke daratan untuk mencari makanan. Pada saat berada di daratan, Pokémon ini melapisi badannya dengan selaput yang lengket dan beracun."
+  },
+  {
+    "Name": "Quagsire",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Water",
+    "Abilities": [
+      {
+        "name": "Ombak Penghapus",
+        "effect": "Dapat digunakan berkali-kali pada giliran sendiri. Pindahkan 1 Energi {Air} yang dikenakan pada Pokémon Cadangan sendiri ke Pokémon Bertarung sendiri."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Pompa Air",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "60+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 20 untuk tiap Energi {Air} yang dikenakan pada Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "036/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003587.png",
+    "Description": "Quagsire berburu makanannya dengan membiarkan mulutnya terbuka lebar-lebar di dalam air dan menunggu mangsanya masuk secara tidak sengaja. Pokémon ini tidak bergerak sehingga tidak mudah lapar."
+  },
+  {
+    "Name": "Mantine",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Water",
+    "Abilities": [
+      {
+        "name": "Selancar Mantine",
+        "effect": "Jika Pokémon ini dikenakan Energi, Pokémon ini tidak membutuhkan Energi untuk melakukan Mundur."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Berselancar",
+        "cost": "Water / Water / Colorless",
+        "damage": "100",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "037/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003588.png",
+    "Description": "Banyak orang yang belajar berselancar setelah melihat keahlian Mantine berenang."
+  },
+  {
+    "Name": "Lotad",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mencengangkan",
+        "cost": "Water",
+        "damage": "10",
+        "effect": "Pilih 1 kartu dari Kartu Pegangan lawan secara acak. Lihat kartu tersebut, lalu kocok kembali ke dalam Deck lawan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Atsuko Nishida",
+    "Collector Number": "038/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003589.png",
+    "Description": "Lotad dipercaya pernah hidup di daratan. Tetapi konon Pokémon ini kembali hidup di air karena daun di kepalanya menjadi besar dan berat. Ia sekarang hidup mengaping di air."
+  },
+  {
+    "Name": "Lombre",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Aqua Lift",
+        "cost": "",
+        "damage": "",
+        "effect": "Jika Pokémon ini dikenakan Energi {Air}, Pokémon ini tidak membutuhkan Energi untuk melakukan Mundur."
+      },
+      {
+        "name": "Menyergap",
+        "cost": "Colorless / Colorless",
+        "damage": "20+",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, kekuatan serangan bertambah 20."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Atsuko Nishida",
+    "Collector Number": "039/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003590.png",
+    "Description": "Seluruh badan Lomber ditutupi dengan lendir yang lengket dan licin. Kamu akan merasa sangat tidak nyaman apabila disentuh oleh tangan Pokémon ini. Lombre sering disangka anak manusia."
+  },
+  {
+    "Name": "Ludicolo",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "140",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tarian Mengayun",
+        "cost": "",
+        "damage": "",
+        "effect": "Dapat digunakan 1 kali saat giliran sendiri. Ambil 1 kartudari atas Deck sendiri."
+      },
+      {
+        "name": "Tarian Melingkar",
+        "cost": "Water / Colorless / Colorless",
+        "damage": "70+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 10 untuk tiap Pokémon kedua pemain yang ada di Arena selain Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Atsuko Nishida",
+    "Collector Number": "040/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003591.png",
+    "Description": "Apabila mendengar ritme yang bersemangat dan ceria, maka sel-sel di dalam tubuh Ludicolo menjadi sangat energik dan aktif. Saat bertarung pun Pokémon ini akan menunjukkan kekuatan yang luar biasa."
+  },
+  {
+    "Name": "Wailmer",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Penelan Ombak",
+        "cost": "Water / Water / Water",
+        "damage": "50",
+        "effect": "Lempar koin hingga hasilnya sisi belakang, HP Pokémon ini pulih sejumlah 50 untuk tiap sisi depan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Kagemaru Himeno",
+    "Collector Number": "041/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003592.png",
+    "Description": "Karena masih ingat kehidupannya dahulu di darat, terkadang sekelompok Pokémon ini dapat ditemukan terdampar di pantai."
+  },
+  {
+    "Name": "Wailord",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "220",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Ombak Menyusut",
+        "cost": "Water / Water / Water / Water",
+        "damage": "200-",
+        "effect": "Kerusakan dari serangan ini berkurang sejumlah 40 untuk tiap Token Kerusakan yang dimiliki Pokémon ini."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless / Colorless",
+    "Illustrator": "Anesaki Dynamic",
+    "Collector Number": "042/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003593.png",
+    "Description": "Ketika Wailmer kecil diserang oleh Sharpedo atau Dhelmise, seluruh anggota kelompoknya akan melindunginya bersama-sama."
+  },
+  {
+    "Name": "GlaceonGX",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "200",
+    "Type": "Water",
+    "Abilities": [
+      {
+        "name": "Tatapan Pembeku",
+        "effect": "Selama Pokémon ini adalah Pokémon Bertarung, semua Ability (selain Tatapan Pembeku) Pokémon GX atau EX lawan yang ada di Arena, Kartu Pegangan, atau Trash tidak memiliki Ability."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Peluru Es",
+        "cost": "Water / Colorless / Colorless",
+        "damage": "90",
+        "effect": "Memberi kerusakan sejumlah 30 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      },
+      {
+        "name": "Polar-Spear GX",
+        "cost": "Water / Colorless / Colorless",
+        "damage": "50×",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 50 untuk tiap Token Kerusakan yang dimiliki Pokémon Bertarung lawan. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Metal (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "043/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003594.png",
+    "Description": ""
+  },
+  {
+    "Name": "Mareanie",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Meriam Paku",
+        "cost": "Water",
+        "damage": "30×",
+        "effect": "Lempar koin 2 kali. Serangan memberikan kerusakan sebesar 30 tiap hasil sisi depan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Aya Kusube",
+    "Collector Number": "044/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003595.png",
+    "Description": "Selain kepala, bagian-bagian tubuhnya dapat beregenerasi dengan cepat jika dipotong. Setelah tidur malam yang nyenyak, Marean yang terluka dapat kembali normal."
+  },
+  {
+    "Name": "Toxapex",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Water",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Jarum Beracun",
+        "cost": "Water",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Racun."
+      },
+      {
+        "name": "Demam Racun",
+        "cost": "Water / Water",
+        "damage": "50×",
+        "effect": "Jika Pokémon Bertarung lawan mengalami kondisi Racun, serangan ini memberikan kerusakan sejumlah 50 untuk tiap Token Kerusakan yang dimiliki Pokémon Bertarung lawan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "kirisAki",
+    "Collector Number": "045/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003596.png",
+    "Description": "Dengan 12 kakinya, Pokémon ini menciptakan kubah untuk berlindung di dalamnya. Aliran ombak tidak mempengaruhi Toksapeks sehingga mereka tetap merasa nyaman di tempat tinggalnya."
+  },
+  {
+    "Name": "Magnemite",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Magnet Pencari",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 3 Energi {Listrik} dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Serudukan",
+        "cost": "Lightning",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "MAHOU",
+    "Collector Number": "046/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003597.png",
+    "Description": "Mungkin karena belakangan ini kabel listrik banyak yang dalam keadaan terkubur, jumlah serangan Magnemite terhadap pusat pembangkit listrik menjadi meningkat."
+  },
+  {
+    "Name": "Magneton",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menyeruduk",
+        "cost": "Lightning",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Meriam Zap",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "80",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan \"Meriam Zap.\""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "kirisAki",
+    "Collector Number": "047/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003598.png",
+    "Description": "Jika ada awan tebal terbentuk, banyak Magneton berkumpul di tempat-tempat tinggi untuk menunggu datangnya kilat."
+  },
+  {
+    "Name": "Magnezone",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Sirkuit Magnetik",
+        "effect": "Dapat digunakan berkali-kali pada giliran sendiri. Kenakan 1 Energi {Listrik} dari Kartu Pegangan sendiri ke Pokémon sendiri."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Meriam Zap",
+        "cost": "Lightning / Lightning / Lightning / Colorless",
+        "damage": "130",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan \"Meriam Zap.\""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Yoshinobu Saito",
+    "Collector Number": "048/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003599.png",
+    "Description": "Masih banyak orang yang percaya bahwa Pokémon ini berasal dari luar angkasa. Pokémon ini mengeluarkan medan magnet yang kuat."
+  },
+  {
+    "Name": "Chinchou",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pukulan Bertubi-tubi",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Percikan",
+        "cost": "Lightning / Colorless",
+        "damage": "10",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 10 ke 2 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon cadangan tidak mempengaruhi jumlah kerusakan.]"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Aya Kusube",
+    "Collector Number": "049/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003600.png",
+    "Description": "Chinchou saling mengedipkan antenanya satu dengan lainnya untuk saling mengklaim daerah teritorialnya."
+  },
+  {
+    "Name": "Lanturn",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Landasan Energi",
+        "effect": "Dapat digunakan 1 kali tiap Pokémon sendiri KO akibat kerusakan dari serangan lawan. Pindahkan 1 Energi dasar pada Pokémon yang KO ke Pokémon ini."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Sambaran Listrik",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "70+",
+        "effect": "Pemain dapat membuang semua Energi {Listrik} yang dikenakan pada Pokémon ini ke Trash. Jika dilakukan, kerusakan yang diberikan bertambah sejumlah 70 dengan"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Aya Kusube",
+    "Collector Number": "050/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003601.png",
+    "Description": "Pokémon ini tinggal di dasar laut dalam. Ia dapat membutakan mangsanya dengan cahaya yang sangat kuat, dan ketika mereka terkesima, menangkap dan menelannya bulat-bulat."
+  },
+  {
+    "Name": "Mareep",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Bantal Lembut",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri jika Pokémon ini adalah Pokémon Bertarung. Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Serudukan",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Midori Harada",
+    "Collector Number": "051/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003602.png",
+    "Description": "Membelai bulu Pokémon ini menghasilkan listrik.Kamu akan ingin membelainya karena ia menggemaskan, tetapi jika membelainya tanpa menggunakan sarung tangan, kamu akan tersengat listrik."
+  },
+  {
+    "Name": "Flaaffy",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sinar Sinyal",
+        "cost": "Lightning / Lightning",
+        "damage": "40",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Mizue",
+    "Collector Number": "052/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003603.png",
+    "Description": "Pokémon ini menyimpan listrik di bulunya yang lembut. Jika ia menyimpan terlalu banyak, biasanya bulunya rontok dan menyebabkan kebotakan di beberapa tempat."
+  },
+  {
+    "Name": "AmpharosGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "240",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Isi Ulang Tenaga",
+        "cost": "Lightning",
+        "damage": "30",
+        "effect": "Tambahkan semua kartu Electric Power yang ada di Trash sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan."
+      },
+      {
+        "name": "Hantaman Petir",
+        "cost": "Lightning / Lightning",
+        "damage": "150",
+        "effect": "Buang semua Energi {Listrik} yang dikenakan pada Pokémon ini ke Trash."
+      },
+      {
+        "name": "Elektris-GX",
+        "cost": "Lightning",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 7 Pokémon dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "053/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003604.png",
+    "Description": ""
+  },
+  {
+    "Name": "RaikouGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "170",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cakar Penggali",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": ""
+      },
+      {
+        "name": "Guntur",
+        "cost": "Lightning / Lightning / Colorless / Colorless",
+        "damage": "150",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi belakang, Pokémon ini menerima kerusakan sejumlah 50."
+      },
+      {
+        "name": "Hujan Listrik",
+        "cost": "Lightning / Lightning / Lightning / Lightning",
+        "damage": "",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 100 ke tiap Pokémon lawan yang dikenakan Energi. [Kelemahan dan Resistansi Pokémon cadangan tidak mempengaruhi jumlah kerusakan.] [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "054/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003605.png",
+    "Description": ""
+  },
+  {
+    "Name": "Shinx",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Keuntungan Evolusi",
+        "effect": "Pokémon ini bisa langsung berevolusi di giliran pertama untuk pemain yang mendapat giliran kedua."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Tegangan Statis",
+        "cost": "Lightning",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shibuzoh.",
+    "Collector Number": "055/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003606.png",
+    "Description": "Jika merasa ada bahaya, seluruh bulu di tubuhnya akan bersinar untuk membutakan musuhnya sementara dan memberikan kesempatan untuk kabur."
+  },
+  {
+    "Name": "Luxio",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Hambatan Listrik",
+        "cost": "Colorless",
+        "damage": "30",
+        "effect": "Pada giliran lawan berikutnya, pemain lawan tidak bisa menggunakan Item dari Kartu Pegangan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "tetsuya koizumi",
+    "Collector Number": "056/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003607.png",
+    "Description": "Di ujung kukunya mengalir arus listrik yang sangat kuat. Ia bisa membuat lawannya pingsan hanya dengan sedikit goresan kukunya."
+  },
+  {
+    "Name": "Luxray",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Taring Mengancam",
+        "effect": "Selama Pokémon ini menjadi Pokémon Bertarung sendiri,jumlah kerusakan dari serangan Pokemon Bertarung lawanberkurang 30.(sebelum disesuaikan dengan Kelemahan dan Resistansi.)"
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Panah Petir",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "",
+        "effect": "Buang semua Energi {Listrik} yang dikenakan pada Pokémon ini ke Trash. Kemudian, berikan kerusakan sejumlah 150 terhadap 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon cadangan tidak mempengaruhi jumlah kerusakan.]"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "",
+    "Illustrator": "Akira Komayama",
+    "Collector Number": "057/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003608.png",
+    "Description": "Kemampuan Luxray untuk melihat menembus berbagai benda sangat berguna ketika ia berjaga terhadap bahaya."
+  },
+  {
+    "Name": "Xurkitree",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Ledakan Cahaya",
+        "cost": "Lightning",
+        "damage": "20",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      },
+      {
+        "name": "Lilitan Kabel",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "100",
+        "effect": "Jika sisa Kartu Point sendiri adalah tepat 3, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "058/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003609.png",
+    "Description": "Mereka dijuluki Hewan Buas Ultra. Beberapa dari mereka berdiri tak bergerak seperti pohon, dengan tangan dan kaki mereka tertancap di tanah."
+  },
+  {
+    "Name": "Zeraora",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menyayat",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Tegangan Liar",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "120",
+        "effect": "Pokémon ini menerima kerusakan sejumlah 20."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Kouki Saitou",
+    "Collector Number": "059/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003610.png",
+    "Description": "Pokémon ini mendekati musuhnya dengan dengan kecepatan kilat dan mencabik-cabik musuhnya dengan cakarnya yang tajam."
+  },
+  {
+    "Name": "Drifloon",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Angin Menyeramkan",
+        "cost": "Psychic",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      },
+      {
+        "name": "Bergantung",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Asako Ito",
+    "Collector Number": "060/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003611.png",
+    "Description": "Roh-roh gentayangan berkumpul untuk membentuk Pokémon ini. Ketika ia ingin berteman dengan anak-anak kecil, Drifloon biasa memegang kuat tangan mereka."
+  },
+  {
+    "Name": "Drifblim",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mengangkut Kerusakan",
+        "cost": "Colorless / Colorless",
+        "damage": "",
+        "effect": "Pindahkan masing-masing 4 Token Kerusakan pada Pokémon yang ada di Arena sendiri ke Pokémon Bertarung lawan."
+      },
+      {
+        "name": "Roda Angin",
+        "cost": "Psychic / Colorless / Colorless",
+        "damage": "80",
+        "effect": "Tukar Pokémon Bertarung lawan dengan Pokémon Cadangan lawan. [Pokémon yang akan masuk Arena Bertarung akan ditentukan pemain lawan.]"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Yumi",
+    "Collector Number": "061/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003612.png",
+    "Description": "Gas yang terdapat di dalam tubuhnya dibentuk dari roh. Ketika tubuhnya mulai mengempis, konon itu pertanda ia membawa kabur orang dan Pokémon."
+  },
+  {
+    "Name": "Skorupi",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mengasah Cakar",
+        "cost": "Psychic",
+        "damage": "",
+        "effect": "Pada giliran sendiri berikutnya, kerusakan dari Menusuk Pokémon ini menjadi 90."
+      },
+      {
+        "name": "Melubangi",
+        "cost": "Psychic / Psychic",
+        "damage": "30",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Misa Tsutsui",
+    "Collector Number": "062/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003613.png",
+    "Description": "Pokémon ini mengubur dirinya di bawah pasir untuk menunggu mangsa. Cakar di ekornya dapat menyuntikkan racun yang ganas ke dalam tubuh mangsanya."
+  },
+  {
+    "Name": "Drapion",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sengatan Berbahaya",
+        "cost": "Psychic / Psychic / Psychic / Psychic",
+        "damage": "100",
+        "effect": "Ubah kondisi Pokémon Bertarung lawan menjadi Racun dan Lumpuh."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Studio Bora Inc.",
+    "Collector Number": "063/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003614.png",
+    "Description": "Pokémon ini dapat menghancurkan sebuah mobil dengan cakarnya yang kuat. Ujung cakarnya dapat mengeluarkan racun."
+  },
+  {
+    "Name": "Inkay",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Hipnotis",
+        "cost": "Psychic",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "sowsow",
+    "Collector Number": "064/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003615.png",
+    "Description": "Ketika bertukar informasi dengan sesamanya, Pokémon ini memancarkan cahaya dari titik-titik pada permukaan tubuhnya dalam irama yang rumit."
+  },
+  {
+    "Name": "Malamar",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Psychic",
+    "Abilities": [
+      {
+        "name": "Isi Ulang Psikis",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Kenakan 1 Energi {Psychic} dari Trash sendiri ke Pokémon Cadangan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Bola Psikis",
+        "cost": "Psychic / Psychic / Colorless",
+        "damage": "60",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "You Iribi",
+    "Collector Number": "065/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003616.png",
+    "Description": "Pokémon ini memancarkan cahaya pada pola di tubuhnya untuk mengendalikan pikiran mangsanya dan menarik mereka mendekat. Ujung-ujung siripnya sangat tajam."
+  },
+  {
+    "Name": "Hoopa",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cincin Dimensi Lain",
+        "cost": "Psychic",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 2 kartu Item dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Psy Bolt",
+        "cost": "Psychic",
+        "damage": "10",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Aya Kusube",
+    "Collector Number": "066/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003617.png",
+    "Description": "Konon, Pokémon ini dapat merebut apa pun yang diinginkannya dengan enam cincin dan enam lengan besarnya. Karena kekuatannya yang sebenarnya disegel, Pokémon ini berubah menjadi jauh lebih kecil."
+  },
+  {
+    "Name": "Cosmog",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Psychic",
+    "Abilities": [
+      {
+        "name": "Pelindung Kosmik",
+        "effect": "Selama Pokémon ini ada di Cadangan, Pokémon ini tidak menerima kerusakan yang diakibatkan serangan dari kedua pemain."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Bergumam",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "sui",
+    "Collector Number": "067/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003618.png",
+    "Description": "Masih sebagai misteri apakah Pokémon ini berasal dari dunia ini atau bukan. Ketika berada dalam kesulitan, ia akan pergi ke tempat yang aman untuk bersembunyi."
+  },
+  {
+    "Name": "Cosmoem",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "100",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tidur Sejenak",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "HP Pokémon ini pulih sejumlah 20."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Kouki Saitou",
+    "Collector Number": "068/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003619.png",
+    "Description": "Cosmoem terus tumbuh sambil menyerap cahaya. Cangkang emasnya ternyata sangatlah padat."
+  },
+  {
+    "Name": "LunalaGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "230",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Melayang Rendah",
+        "cost": "Colorless / Colorless",
+        "damage": "50",
+        "effect": ""
+      },
+      {
+        "name": "Lembing Bulan",
+        "cost": "Psychic / Psychic / Colorless / Colorless",
+        "damage": "200",
+        "effect": "Buang 2 Energi {Psychic} yang dikenakan pada Pokémon ini ke Trash."
+      },
+      {
+        "name": "Lagu Pengantar-GX",
+        "cost": "Psychic / Psychic / Psychic / Colorless",
+        "damage": "250",
+        "effect": "(Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.)"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Darkness (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "",
+    "Illustrator": "PLANETA",
+    "Collector Number": "069/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003620.png",
+    "Description": ""
+  },
+  {
+    "Name": "Necrozma Sayap Fajar",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Aliran Teluk",
+        "cost": "Psychic",
+        "damage": "20+",
+        "effect": "Jika sisa Kartu Point sendiri adalah tepat 6, kerusakan yang diberikan bertambah sejumlah 20 untuk tiap Token Kerusakan yang dimiliki Pokémon ini."
+      },
+      {
+        "name": "Pedang Fajar",
+        "cost": "Psychic / Psychic / Psychic",
+        "damage": "130",
+        "effect": "Buang 2 Energi pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Darkness (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "070/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003621.png",
+    "Description": "Bentuk ini muncul setelah ia melahap cahaya Lunala. Pokémon ini menangkap musuh dengan menggunakan cakar raksasanya dan merobek mereka menggunakan kekuatan yang sangat besar."
+  },
+  {
+    "Name": "Poipol",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Ludah Beracun",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Racun."
+      },
+      {
+        "name": "KO Reviver",
+        "cost": "Psychic / Colorless",
+        "damage": "",
+        "effect": "Pada giliran lawan berikutnya, pemain lawan tidak bisa mengambil Kartu Point walaupun Pokémon ini KO."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "071/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003622.png",
+    "Description": "Hewan Buas Ultra yang tinggal di dunia lain. Pokémon ini tertawa terbahak-bahak saat menyemprotkan cairan racun dari jarum di kepalanya kepada lawannya."
+  },
+  {
+    "Name": "Poipol",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pembuka Mata",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Lihat semua Kartu Point sendiri yang tertutup, lalu letakkan kembali."
+      },
+      {
+        "name": "Mematuk",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Hitoshi Ariga",
+    "Collector Number": "072/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003623.png",
+    "Description": "Hewan Buas Ultra yang tinggal di dunia lain. Pokémon ini tertawa terbahak-bahak saat menyemprotkan cairan racun dari jarum di kepalanya kepada lawannya."
+  },
+  {
+    "Name": "Naganadel",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Psychic",
+    "Abilities": [
+      {
+        "name": "Isi Tenaga",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Kenakan 1 Energi dasar dari Trash sendiri ke Pokémon ini."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Titik Balik",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "80+",
+        "effect": "Jika sisa Kartu Point sendiri adalah tepat 3, kerusakan yang diberikan bertambah sejumlah 80."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "073/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003624.png",
+    "Description": "Satu dari Hewan Buas Ultra yang menembakkan cairan berbisa yang bercahaya dari jarumnya. Cairan ini juga mudah merekat."
+  },
+  {
+    "Name": "NaganadelGX",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "210",
+    "Type": "Psychic",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Beast Raid",
+        "cost": "Colorless",
+        "damage": "20×",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 20 untuk tiap Ultra Beast yang ada di Arena sendiri."
+      },
+      {
+        "name": "Jarum Jet",
+        "cost": "Psychic / Colorless / Colorless",
+        "damage": "110",
+        "effect": "Kerusakan dari serangan ini tidak dipengaruhi Kelemahan dan Resistansi."
+      },
+      {
+        "name": "Sengatan-GX",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "",
+        "effect": "Kedua pemain mengocok kembali masing-masing semua Kartu Point ke dalam Deck. Kemudian, masing-masing pemain mengambil 3 kartu dari atas Deck untuk ditaruh sebagai Kartu Point. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "074/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003625.png",
+    "Description": ""
+  },
+  {
+    "Name": "Phanpy",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serudukan",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Menahan Derita",
+        "cost": "Fighting",
+        "damage": "",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan dan Pokémon ini KO akibat kerusakan dari serangan pada giliran lawan berikutnya, Pokémon ini tidak KO melainkan menetap di Arena dengan HP sejumlah 10."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "075/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003626.png",
+    "Description": "Phanpy dapat menggunakan hidungnya yang panjang untuk mandi. Ketika berkumpul, mereka sering saling menyiram dengan air. Pokémon ini sering dijumpai berjemur untuk mengeringkan diri di pinggir air."
+  },
+  {
+    "Name": "Phanpy",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serudukan",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": ""
+      },
+      {
+        "name": "Menahan Derita",
+        "cost": "Fighting",
+        "damage": "",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan dan Pokémon ini KO akibat kerusakan dari serangan pada giliran lawan berikutnya, Pokémon ini tidak KO melainkan menetap di Arena dengan HP sejumlah 10."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "076/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003627.png",
+    "Description": "Phanpy dapat menggunakan hidungnya yang panjang untuk mandi. Ketika berkumpul, mereka sering saling menyiram dengan air. Pokémon ini sering dijumpai berjemur untuk mengeringkan diri di pinggir air."
+  },
+  {
+    "Name": "Donphan",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggapai-gapai",
+        "cost": "Fighting",
+        "damage": "10×",
+        "effect": "Serangan ini memberi kerusakan sejumlah 10 untuk tiap Token Kerusakan yang dimiliki Pokémon ini."
+      },
+      {
+        "name": "Putaran Cepat",
+        "cost": "Fighting / Colorless / Colorless",
+        "damage": "50",
+        "effect": "Tukarkan Pokémon ini dengan Pokémon Cadangan. Kemudian, pemain lawan harus menukar Pokémon Bertarung dengan Pokémon Cadangan miliknya."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "077/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003628.png",
+    "Description": "Donphan dapat merobohkan rumah dengan terjangan tubunya yang keras. Pokémon ini dapat menggunakan kekuatannya untuk membersihkan bebatuan dan longsoran lumpur yang menghalangi jalan di pegunungan."
+  },
+  {
+    "Name": "Donphan",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggapai-gapai",
+        "cost": "Fighting",
+        "damage": "10×",
+        "effect": "Serangan ini memberi kerusakan sejumlah 10 untuk tiap Token Kerusakan yang dimiliki Pokémon ini."
+      },
+      {
+        "name": "Putaran Cepat",
+        "cost": "Fighting / Colorless / Colorless",
+        "damage": "50",
+        "effect": "Tukarkan Pokémon ini dengan Pokémon Cadangan. Kemudian, pemain lawan harus menukar Pokémon Bertarung dengan Pokémon Cadangan miliknya."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "078/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003629.png",
+    "Description": "Donphan dapat merobohkan rumah dengan terjangan tubunya yang keras. Pokémon ini dapat menggunakan kekuatannya untuk membersihkan bebatuan dan longsoran lumpur yang menghalangi jalan di pegunungan."
+  },
+  {
+    "Name": "Meditite",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Bertahan",
+        "cost": "Fighting",
+        "damage": "",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan dan Pokémon ini KO akibat kerusakan dari serangan pada giliran lawan berikutnya, Pokémon ini tidak KO melainkan menetap di Arena dengan HP sejumlah 10."
+      },
+      {
+        "name": "tendangan",
+        "cost": "Fighting / Fighting",
+        "damage": "30",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Shibuzoh.",
+    "Collector Number": "079/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003630.png",
+    "Description": "Meditite bermeditasi untuk meningkatkan kemampuan tenaga dalamnya. Pokémon ini dapat hidup dengan hanya 1 beri setiap hari. Makan minimal merupakan salah satu aspek dari latihan hidupnya."
+  },
+  {
+    "Name": "Medicham",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serangan Pencerahan",
+        "cost": "Fighting / Fighting",
+        "damage": "10+",
+        "effect": "Jika HP Pokemon ini sisa 30 atau kurang, kerusakan dari serangan ini bertambah 160."
+      },
+      {
+        "name": "Tendangan Berputar",
+        "cost": "Fighting / Fighting",
+        "damage": "90",
+        "effect": "Pokémon ini menerima kerusakan sejumlah 30."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Misa Tsutsui",
+    "Collector Number": "080/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003631.png",
+    "Description": "Dengan bermeditasi, Medicham mengembangkan indera keenamnya. Ia memilki kemampuan menggunakan kekuatan psikokinetis. Pokémon ini dapat bermeditasi selama 1 bulan penuh tanpa makan."
+  },
+  {
+    "Name": "Gible",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kebangkitan",
+        "cost": "Fighting",
+        "damage": "",
+        "effect": "Cari I kartu Pokémon yang merupakan Evolusi dari Pokémon ini dari Deck Kemudian, letakkan pada kartu iniuntuk berevolusi. Kemudian, kocok Deck."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Kyoko Umemoto",
+    "Collector Number": "081/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003632.png",
+    "Description": "Pokémon ini berasal dari daerah yang jauh lebih panas daripada Daerah Alola. Tinggal bersamanya akan menyebabkan biaya pemanasmu membengkak."
+  },
+  {
+    "Name": "Gabite",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kebangkitan",
+        "cost": "Fighting",
+        "damage": "",
+        "effect": "Cari I kartu Pokémon yang merupakan Evolusi dariPokémon ini dari Deck Kemudian, letakkan pada kartu iniuntuk berevolusi. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Menyayat",
+        "cost": "Colorless / Colorless",
+        "damage": "40",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Collector Number": "082/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003633.png",
+    "Description": "Pokémon ini mengganti kulitnya untuk tumbuh besar. Sisiknya dapat ditumbuk menjadi bubuk dan digunakan sebagai bahan obat-obatan tradisional."
+  },
+  {
+    "Name": "Garchomp",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Terjun Kilat",
+        "cost": "Colorless / Colorless",
+        "damage": "",
+        "effect": "Memberi kerusakan sejumlah 50 kepada 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      },
+      {
+        "name": "Pedang Agung",
+        "cost": "Fighting / Colorless / Colorless",
+        "damage": "100+",
+        "effect": "Jika pemain sendiri menggunakan kartu Cynthia dari Kartu Pegangan pada giliran ini, kerusakan yang diberikan bertambah sejumlah 100."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "083/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003634.png",
+    "Description": "Sisik-sisiknya yang halus tidak hanya mengurangi resistansi angin, tetapi tepi sisik yang tajam juga dapat melukai musuh yang menyerangnya."
+  },
+  {
+    "Name": "Riolu",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mendeteksi",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, Pokémon ini tidak menerima kerusakan ataupun efek dari serangan lawan pada giliran lawan berikutnya."
+      },
+      {
+        "name": "Pukulan Cepat",
+        "cost": "Fighting",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Kyoko Umemoto",
+    "Collector Number": "084/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003635.png",
+    "Description": "Pokémon ini menggunakan gelombang aura untuk saling berkomunikasi. Karena ia tidak mengeluarkan suara apapun, musuh-musuhnya tidak dapat menemukannya."
+  },
+  {
+    "Name": "LucarioGX",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "210",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serangan Aura",
+        "cost": "Fighting",
+        "damage": "30+",
+        "effect": "Jika Pokémon ini berevolusi dari Riolu pada giliran ini, kerusakan yang diberikan bertambah sejumlah 90."
+      },
+      {
+        "name": "Tendangan Siklon",
+        "cost": "Fighting / Fighting / Colorless",
+        "damage": "130",
+        "effect": ""
+      },
+      {
+        "name": "Hantaman Silang-GX",
+        "cost": "Colorless / Colorless",
+        "damage": "30×",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 30 untuk tiap Token Kerusakan pada Pokémon ini. (Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.)"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Psychic (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "085/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003636.png",
+    "Description": ""
+  },
+  {
+    "Name": "ZygardeGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "180",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Getaran",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Badai Sel",
+        "cost": "Fighting / Colorless / Colorless",
+        "damage": "80",
+        "effect": "HP Pokémon ini pulih sejumlah 30."
+      },
+      {
+        "name": "Pembebasan-GX",
+        "cost": "Fighting / Fighting / Colorless / Colorless",
+        "damage": "120×",
+        "effect": "Lihat Kartu Pegangan lawan. Serangan ini memberikan kerusakan sejumlah 120 untuk tiap Energi yang ada di dalamnya. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "086/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003637.png",
+    "Description": ""
+  },
+  {
+    "Name": "Rockruff",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggigit",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Hideki Ishikawa",
+    "Collector Number": "087/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003638.png",
+    "Description": "Pokémon ini menyatakan cintanya dengan menggosokkan batu-batu di lehernya ke tubuh seseorang. Namun karena batu-batu tersebut tajam, tindakan ini cukup menyakitkan!"
+  },
+  {
+    "Name": "Rockruff",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serangan Kejutan",
+        "cost": "Fighting / Colorless",
+        "damage": "50",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan gagal."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Tomokazu Komiya",
+    "Collector Number": "088/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003639.png",
+    "Description": "Pokémon ini menyatakan cintanya dengan menggosokkan batu-batu di lehernya ke tubuh seseorang. Namun karena batu-batu tersebut tajam, tindakan ini cukup menyakitkan!"
+  },
+  {
+    "Name": "Lycanroc",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggigit",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": ""
+      },
+      {
+        "name": "Batu Runcing",
+        "cost": "Fighting / Fighting / Colorless",
+        "damage": "90+",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, kekuatan serangan bertambah 30."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "089/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003640.png",
+    "Description": "Bentuk aneh ini adalah hasil dari evolusi pada saat senja. Pokémon ini sangat jarang ditemui di Daerah Alola."
+  },
+  {
+    "Name": "Lycanroc",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Fighting",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Penipu Berbahaya",
+        "cost": "Fighting / Colorless",
+        "damage": "20+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 20 untuk tiap Pokémon Cadangan lawan."
+      },
+      {
+        "name": "Batu Pendorong",
+        "cost": "Fighting / Fighting / Colorless",
+        "damage": "100",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Grass (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "090/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003641.png",
+    "Description": "Bentuk aneh ini adalah hasil dari evolusi pada saat senja. Pokémon ini sangat jarang ditemui di Daerah Alola."
+  },
+  {
+    "Name": "Alolan Meowth",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Darkness",
+    "Abilities": [
+      {
+        "name": "Pemecatan",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Buang 1 kartu Palu Susulan yang ada di Kartu Pegangan sendiri ke Trash, lalu tarik 2 kartu dari atas Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Menggaruk",
+        "cost": "",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "HYOGONOSUKE",
+    "Collector Number": "091/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003642.png",
+    "Description": "Sebuah keluarga kerajaan yang berjaya di masa lalu membawanya ke sini dari daerah lain. Meowth bersifat egois dan sombong."
+  },
+  {
+    "Name": "Murkrow",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tatapan Jahat",
+        "cost": "Darkness",
+        "damage": "10",
+        "effect": "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak bisa Mundur."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "match",
+    "Collector Number": "092/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003643.png",
+    "Description": "Pokémon ini mengumpulkan barang-barang yang bersinar untuk tuannya. Kehadiran Murkrow dipercaya membawa sial sehingga banyak orang membencinya."
+  },
+  {
+    "Name": "Honchkrow",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Robek dan Lari",
+        "cost": "Darkness",
+        "damage": "",
+        "effect": "Buang 1 Kartu Pegangan lawan ke Trash tanpa melihat isinya. Tukar Pokémon ini dengan Pokémon Cadangan."
+      },
+      {
+        "name": "Terjun Cepat",
+        "cost": "Darkness / Colorless / Colorless",
+        "damage": "90",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Hitoshi Ariga",
+    "Collector Number": "093/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003644.png",
+    "Description": "Biasanya anak buahnya yang bertarung untuk dirinya. Ia hanya akan mengotori tangannya untuk melakukan serangan terakhir untuk menghabisi musuhnya."
+  },
+  {
+    "Name": "Stunky",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Ikatan Gas",
+        "cost": "Darkness",
+        "damage": "10",
+        "effect": "Ubah kondisi Pokémon Bertarung kedua pemain menjadi Pusing."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Naoyo Kimura",
+    "Collector Number": "094/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003645.png",
+    "Description": "Pokémon ini melindungi dirinya dengan cara menyemprotkan cairan yang berbau busuk dari belakangnya. Bau tersebut bertahan selama 24 jam."
+  },
+  {
+    "Name": "Zorua",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sembunyi di Bayangan",
+        "cost": "Darkness",
+        "damage": "",
+        "effect": "Tukar Pokémon ini dengan Pokémon Cadangan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Naoyo Kimura",
+    "Collector Number": "095/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003646.png",
+    "Description": "Jika seorang anak yang biasanya banyak bicara tiba-tiba berhenti berbicara, mungkin anak tersebut telah digantikan oleh Zorua."
+  },
+  {
+    "Name": "Zoroark",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cakar Penghancur",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, buang 1 Energi pada Pokémon Bertarung lawan ke Trash."
+      },
+      {
+        "name": "Penghancur Maut",
+        "cost": "Darkness / Darkness / Colorless",
+        "damage": "120",
+        "effect": "Buang 1 Energi {Kegelapan} yang dikenakan pada Pokémon ini ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Misa Tsutsui",
+    "Collector Number": "096/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003647.png",
+    "Description": "Jika merasa bahwa sarangnya akan ditemukan oleh manusia, Zoroark akan menunjukkan penglihatan yang membuat mereka bingung dan berkeliaran di hutan."
+  },
+  {
+    "Name": "HoopaGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "190",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Cincin Penjahat",
+        "cost": "Darkness",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 2 kartu sesukanya dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Serangan Kegelapan",
+        "cost": "Darkness / Darkness / Darkness",
+        "damage": "160",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan Serangan Kegelapan."
+      },
+      {
+        "name": "Tangan Iblis",
+        "cost": "Darkness / Darkness / Darkness",
+        "damage": "",
+        "effect": "Pilih Pokémon GX atau EX lawan 6 kali. (1 Pokémon boleh dipilih 2 kali atau lebih.) Tiap pilihan memberi kerusakan sejumlah 30 tanpa dipengaruhi Kelemahan dan Resistansi. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "097/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003648.png",
+    "Description": ""
+  },
+  {
+    "Name": "IncineroarGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "250",
+    "Type": "Darkness",
+    "Abilities": [
+      {
+        "name": "Serbuan Luka",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri. Letakkan 3 Token Kerusakan pada Pokémon ini. Kemudian, kenakan paling banyak 3 Energi {Kegelapan} dari Deck sendiri pada Pokémon ini. Kemudian, kocok Deck."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Pukulan Penghancur",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "130",
+        "effect": "Buang 1 Energi Spesial yang dikenakan pada Pokémon Bertarung lawan ke Trash."
+      },
+      {
+        "name": "Tornado DD-GX",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "10+",
+        "effect": "Kerusakan dari serangan ini bertambah sejumlah 50 untuk tiap Token Kerusakan yang dimiliki Pokémon ini. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "098/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003649.png",
+    "Description": ""
+  },
+  {
+    "Name": "Guzzlord",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "160",
+    "Type": "Darkness",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Lembah Agung",
+        "cost": "Darkness / Darkness / Darkness / Darkness",
+        "damage": "160",
+        "effect": "Jika sisa Kartu Point sendiri adalah 6, 4, atau 2, buang 10 kartu dari atas Deck sendiri ke Trash."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless / Colorless",
+    "Illustrator": "Anesaki Dynamic",
+    "Collector Number": "099/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003650.png",
+    "Description": "Bentuk makhluk hidup yang belum diketahui yang disebut UB. Makhluk ini selalu memakan sesuatu karena perutnya selalu lapar."
+  },
+  {
+    "Name": "Alolan Diglett",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kepala Besi",
+        "cost": "",
+        "damage": "10×",
+        "effect": "Lempar koin hingga hasilnya sisi belakang. Serangan memberikan kerusakan sejumlah 10 untuk tiap lemparan dengan hasil sisi depan."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Naoyo Kimura",
+    "Collector Number": "100/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003651.png",
+    "Description": "Kebutuhan untuk menggali batu vulkanik di tanah telah membuat mereka lebih kuat daripada Diglett di wilayah lain."
+  },
+  {
+    "Name": "Alolan Dugtrio",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Gold Rush",
+        "cost": "",
+        "damage": "30×",
+        "effect": "Buang Energi {Logam} dari Kartu Pegangan sendiri sejumlah sesukanya ke Trash. Serangan ini memberi kerusakan sejumlah 30 untuk tiap kartu yang dibuang."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Megumi Mizutani",
+    "Collector Number": "101/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003652.png",
+    "Description": "Kumis emasnya yang bersinar adalah sensor canggih yang dapat mendeteksi getaran dari suara beberapa kilometer jauhnya."
+  },
+  {
+    "Name": "Magnemite",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Magnet Pencari",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 3 Energi {Listrik} dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Serudukan",
+        "cost": "Lightning",
+        "damage": "10",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "MAHOU",
+    "Collector Number": "102/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003653.png",
+    "Description": "Mungkin karena belakangan ini kabel listrik banyak yang dalam keadaan terkubur, jumlah serangan Magnemite terhadap pusat pembangkit listrik menjadi meningkat."
+  },
+  {
+    "Name": "Magneton",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Lightning",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menyeruduk",
+        "cost": "Lightning",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Meriam Zap",
+        "cost": "Lightning / Lightning / Colorless",
+        "damage": "80",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan \"Meriam Zap.\""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "kirisAki",
+    "Collector Number": "103/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003654.png",
+    "Description": "Jika ada awan tebal terbentuk, banyak Magneton berkumpul di tempat-tempat tinggi untuk menunggu datangnya kilat."
+  },
+  {
+    "Name": "Magnezone",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "150",
+    "Type": "Lightning",
+    "Abilities": [
+      {
+        "name": "Sirkuit Magnetik",
+        "effect": "Dapat digunakan berkali-kali pada giliran sendiri. Kenakan 1 Energi {Listrik} dari Kartu Pegangan sendiri ke Pokémon sendiri."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Meriam Zap",
+        "cost": "Lightning / Lightning / Lightning / Colorless",
+        "damage": "130",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan \"Meriam Zap.\""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Yoshinobu Saito",
+    "Collector Number": "104/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003655.png",
+    "Description": "Masih banyak orang yang percaya bahwa Pokémon ini berasal dari luar angkasa. Pokémon ini mengeluarkan medan magnet yang kuat."
+  },
+  {
+    "Name": "Mawile",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menambang",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Tambahkan 1 kartu Item dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck. Jika kartu tersebut adalah kartu Pokémon Tool, pemain dapat mengenakan kartu tersebut pada Pokémon di Arena sendiri yang belum dikenakan Pokémon Tool."
+      },
+      {
+        "name": "Gigitan Merobek",
+        "cost": "Metal / Colorless",
+        "damage": "20+",
+        "effect": "Jika Pokémon Bertarung lawan adalah Pokémon GX atau EX, kerusakan yang diberikan bertambah sejumlah 30.(sebelum disesuaikan dengan Kelemahan dan Resistansi.)"
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Kagemaru Himeno",
+    "Collector Number": "105/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003656.png",
+    "Description": "Pokémon ini memiliki 2 mulut. Rahang besar di belakang kepalanya tidak dapat merasakan apapun, sehingga ia menggunakannya untuk makan makanan yang ia tidak sukai."
+  },
+  {
+    "Name": "Jirachi",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Metal",
+    "Abilities": [
+      {
+        "name": "Bintang Harapan",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri jika Pokémon ini adalah Pokémon Bertarung. Lihat 5 kartu dari atas Deck sendiri. Tambahkan 1 kartu Trainer dari dalamnya ke ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kocok kembali sisa kartu ke dalam Deck. Kemudian, ubah kondisi Pokémon ini menjadi Tidur."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Menampar",
+        "cost": "Metal / Colorless",
+        "damage": "30",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "HYOGONOSUKE",
+    "Collector Number": "106/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003657.png",
+    "Description": "Jirachi akan terbangun dari tidurnya selama ribuan tahun apabila mendengar nyanyian dengan suara yang murni. Dipercaya dapat mewujudkan segala keinginanmu."
+  },
+  {
+    "Name": "Bronzor",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Hipnotis",
+        "cost": "Metal",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      },
+      {
+        "name": "Serangan Berputar",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Collector Number": "107/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003658.png",
+    "Description": "Bronzor berbentuk mirip dengan peralatan yang ditemukan di kuburan-kuburan purba. Tidak ada yang tahu apakah mereka berhubungan."
+  },
+  {
+    "Name": "Bronzor",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Hipnotis",
+        "cost": "Metal",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      },
+      {
+        "name": "Serangan Berputar",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Collector Number": "108/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003659.png",
+    "Description": "Bronzor berbentuk mirip dengan peralatan yang ditemukan di kuburan-kuburan purba. Tidak ada yang tahu apakah mereka berhubungan."
+  },
+  {
+    "Name": "Bronzong",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "110",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Psy Bolt",
+        "cost": "Metal",
+        "damage": "20",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      },
+      {
+        "name": "Resonansi Psikis",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "60+",
+        "effect": "Jika ada Pokémon tipe {Psychic} di Arena lawan, kerusakan yang diberikan bertambah sejumlah 60."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Kagemaru Himeno",
+    "Collector Number": "109/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003660.png",
+    "Description": "Orang-orang yang hidup di zaman purba percaya bahwa berdoa memohon kepada Bronzong untuk menurunkan hujan akan membuat tanaman mereka tumbuh."
+  },
+  {
+    "Name": "DialgaGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "180",
+    "Type": "Dragon",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mempercepat",
+        "cost": "Metal",
+        "damage": "",
+        "effect": "Ambil kartu dari Deck hingga jumlah Kartu Pegangan sendiri menjadi 6."
+      },
+      {
+        "name": "Merobek",
+        "cost": "Metal / Colorless / Colorless",
+        "damage": "80",
+        "effect": "Kerusakan akibat serangan ini tidak terpengaruh oleh efek yang sedang dialami Pokémon Bertarung lawan."
+      },
+      {
+        "name": "Keabadian-GX",
+        "cost": "Metal / Metal / Metal / Colorless / Colorless",
+        "damage": "150",
+        "effect": "Saaat giliran ini berakhir, pemain sendiri akan memainkan 1 giliran lagi. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fairy (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "110/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003661.png",
+    "Description": ""
+  },
+  {
+    "Name": "SolgaleoGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "250",
+    "Type": "Metal",
+    "Abilities": [
+      {
+        "name": "Surai Gemerlap",
+        "effect": "Selama ada Pokémon ini, semua Pokémon sendiri menjadi tidak memiliki Kelemahan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Serangan Turbo",
+        "cost": "Colorless / Colorless",
+        "damage": "120",
+        "effect": "Kenakan 2 Energi dasar dari Trash sendiri ke 1 Pokémon Cadangan."
+      },
+      {
+        "name": "Keagungan-GX",
+        "cost": "Colorless / Colorless",
+        "damage": "",
+        "effect": "HP semua Pokémon sendiri pulih secara penuh. (Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.)"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "PLANETA",
+    "Collector Number": "111/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003662.png",
+    "Description": ""
+  },
+  {
+    "Name": "Necrozma Surai Senja",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Metal",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Tembakan Senja",
+        "cost": "Metal",
+        "damage": "",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 60 terhadap 1 Pokémon GX atau EX lawan. Kerusakan dari serangan ini tidak dipengaruhi Kelemahan dan Resistansi."
+      },
+      {
+        "name": "Kuku Berkarat",
+        "cost": "Metal / Metal / Colorless",
+        "damage": "100+",
+        "effect": "Jika sisa Kartu Point lawan adalah tepat 1, kerusakan yang diberikan bertambah sejumlah 100."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fire (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Shin Nagasawa",
+    "Collector Number": "112/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003663.png",
+    "Description": "Ini adalah bentuk Necrozma ketika ia menyerap kekuatan Solgaleo. Hal ini membuatnya sangat ganas dan tidak mungkin untuk dikendalikan."
+  },
+  {
+    "Name": "Ralts",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "50",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mengundang",
+        "cost": "Fairy",
+        "damage": "",
+        "effect": "Tambahkan 1 kartu Support dari Trash sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan."
+      },
+      {
+        "name": "Menghantam",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Yuka Morii",
+    "Collector Number": "113/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003664.png",
+    "Description": "Raits mempunyai kemampuan untuk merasakan perasaan orang. Pokémon ini juga akan merasa bergembira saat Pelatih Pokémon-nya merasa senang."
+  },
+  {
+    "Name": "Kirlia",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "80",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menghantam",
+        "cost": "Colorless / Colorless",
+        "damage": "20",
+        "effect": ""
+      },
+      {
+        "name": "Suara Mempesona",
+        "cost": "Fairy / Colorless / Colorless",
+        "damage": "50",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Kouki Saitou",
+    "Collector Number": "114/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003665.png",
+    "Description": "Kirlia menggunakan tanduk di kepalanya untuk memperkuat kekuatan psikokinesiknya. Ketika Pokémon ini menggunakan kekuatannya, udara di sekitarnya menjadi terdistorsi dan menciptakan fatamorgana pemandangan yang tidak nyata."
+  },
+  {
+    "Name": "Gardevoir",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "130",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pencarian Brilian",
+        "cost": "Fairy",
+        "damage": "",
+        "effect": "Tambahkan paling banyak 3 kartu sesukanya dari Deck keKartu Pegangan. Kemudian, kocok Deck."
+      },
+      {
+        "name": "Sinar Perasa",
+        "cost": "Fairy / Colorless / Colorless",
+        "damage": "70+",
+        "effect": "Jika pemain sendiri menggunakan kartu Supporter dari Kartu Pegangan pada giliran ini, kerusakan yang diberikan bertambah sejumlah 90."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Ryota Murayama",
+    "Collector Number": "115/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003666.png",
+    "Description": "Gardevoir empunyai kekuatan psikokinesik untuk memutarbalikkan dimensi dan membuat lubang hitam kecil. Pokémon ini akan mencoba untuk melindungi Pelatih Pokémon-nya walaupun harus mempertaruhkan nyawanya."
+  },
+  {
+    "Name": "Sylveon",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Kedipan Mata",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Lihat Kartu Pegangan lawan. Pemain dapat membuang 1 kartu Supporter yang ada dalamnya ke Trash. Jika dilakukan, jalankan efek kartu tersebut sebagai efek serangan ini."
+      },
+      {
+        "name": "Tembakan Sihir",
+        "cost": "Fairy / Colorless",
+        "damage": "40",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "313",
+    "Collector Number": "116/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003697.png",
+    "Description": "Sylveon membungkus lengan Pelatih Pokémon-nya dengan perasa berbentuk pita karena sentuhannya memungkinkan Pokémon ini untuk membaca perasaan Pelatih Pokémon-nya."
+  },
+  {
+    "Name": "Carbink",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Sinar Menakjubkan",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": "Pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan ataupun efek dari serangan Pokémon yang memiliki Ability."
+      },
+      {
+        "name": "Permata Tenaga",
+        "cost": "Fairy / Colorless / Colorless",
+        "damage": "60",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "117/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003667.png",
+    "Description": "Untuk menjaga permata di tubuh mereka tetap bebas nota, sekelompok Carbink menggunakan surai lembut mereka untuk saling memoles permata mereka."
+  },
+  {
+    "Name": "Klefki",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Suara Logam",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+      },
+      {
+        "name": "Kuncian Peri",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak bisa Mundur."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "otumami",
+    "Collector Number": "118/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003668.png",
+    "Description": "Dahulu ia hidup di tambang, tetapi ketika mineral yang menjadi makananya menjadi semakin langka, Klefki mulai muncul di pemukiman manusia."
+  },
+  {
+    "Name": "XerneasGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "180",
+    "Type": "Fairy",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Serbuan",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": "Memberi kerusakan sejumlah 20 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+      },
+      {
+        "name": "Tanduk Aurora",
+        "cost": "Fairy / Fairy / Colorless",
+        "damage": "120",
+        "effect": ""
+      },
+      {
+        "name": "Sanctuary-GX",
+        "cost": "Fairy / Fairy / Colorless",
+        "damage": "",
+        "effect": "Pindahkan semua Token Kerusakan yang dimiliki semua Pokémon sendiri ke Pokémon Bertarung lawan. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Metal (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "119/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003669.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bagon",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "70",
+    "Type": "Dragon",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menendang",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan gagal."
+      },
+      {
+        "name": "Mata Naga",
+        "cost": "Fire / Water",
+        "damage": "20",
+        "effect": "Mengubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fairy (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Kouki Saitou",
+    "Collector Number": "120/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003670.png",
+    "Description": "Ada teori yang mengatakan bahwa tindakan membenturkan kepala Pokémon ini sebenarnya menstimulasi sel-sel yang mempengaruhi proses evolusinya."
+  },
+  {
+    "Name": "Shelgon",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Dragon",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Perlindungan Energi",
+        "cost": "",
+        "damage": "",
+        "effect": "Jika Pokémon ini dikenakan Energi dasar, kerusakan dari serangan yang diterima Pokémon ini berkurang sejumlah 20. (setelah disesuaikan dengan Kelemahan dan Resistansi.)"
+      },
+      {
+        "name": "Menggelinding",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fairy (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless / Colorless",
+    "Illustrator": "Yuka Morii",
+    "Collector Number": "121/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003671.png",
+    "Description": "Shelgon tinggal di dalam gua-gua yang gelap. Ia selalu bersembunyi di dalam cangkangnya yang keras sambil bermimpi suatu hari ia akan dapat terbang bebas."
+  },
+  {
+    "Name": "SalamenceGX",
+    "Stage": "Stage 2",
+    "Card Type": "Pokémon",
+    "HP": "250",
+    "Type": "Dragon",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Pertolongan Naga",
+        "cost": "",
+        "damage": "",
+        "effect": "Selama Pokémon ini, semua Pokémon sendiri (selain Pokémon GX atau EX) tidak membutuhkan Energi untuk melakukan Mundur."
+      },
+      {
+        "name": "Kobaran Api Merah",
+        "cost": "Fire / Water / Colorless / Colorless",
+        "damage": "200",
+        "effect": "Buang 2 Energi pada Pokémon ini ke Trash."
+      },
+      {
+        "name": "Terbang Membara",
+        "cost": "Fire / Colorless / Colorless",
+        "damage": "",
+        "effect": "Serangan ini memberikan kerusakan sejumlah 120 ke 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon cadangan tidak mempengaruhi jumlah kerusakan.] [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Fairy (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "5ban Graphics",
+    "Collector Number": "122/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003672.png",
+    "Description": ""
+  },
+  {
+    "Name": "Kangaskhan",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "120",
+    "Type": "Colorless",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Titipan",
+        "cost": "Colorless",
+        "damage": "",
+        "effect": "Ambil 1 kartu dari atas Deck sendiri."
+      },
+      {
+        "name": "Tandukan Kepala",
+        "cost": "Colorless / Colorless",
+        "damage": "30",
+        "effect": ""
+      },
+      {
+        "name": "Pukulan Keluarga",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "60+",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, kekuatan serangan bertambah 30."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "Naoyo Kimura",
+    "Collector Number": "123/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003673.png",
+    "Description": "Jangan sekali-kali mendekati anaknya ketika sedang bermain di luar kantung perut induknya. Sang induk selalu mengawasi di dekatnya."
+  },
+  {
+    "Name": "Eevee",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Colorless",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Menggerogot",
+        "cost": "Colorless",
+        "damage": "20",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Atsuko Nishida",
+    "Collector Number": "124/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003674.png",
+    "Description": "Gen Pokémon ini mudah dipengaruhi oleh lingkungan sekitarnya. Wajahnya pun mulai berubah mirip dengan wajah Pelatih Pokémon-nya."
+  },
+  {
+    "Name": "LugiaGX",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "190",
+    "Type": "Colorless",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Psikis",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "30+",
+        "effect": "Kerusakan yang diberikan bertambah sejumlah 30 untuk tiap Energi yang dikenakan pada Pokémon Bertarung lawan."
+      },
+      {
+        "name": "Pedang Dewa Air",
+        "cost": "Colorless / Colorless / Colorless / Colorless",
+        "damage": "170",
+        "effect": "Pada giliran sendiri berikutnya, Pokémon ini tidak bisa menggunakan Pisau Dewa Laut."
+      },
+      {
+        "name": "Hilang BInasa-GX",
+        "cost": "Colorless / Colorless / Colorless",
+        "damage": "",
+        "effect": "Taruh Pokémon Bertarung lawan dan semua kartu yang dikenakannya ke Lost Zone. [Pemain hanya dapat menggunakan 1 kali serangan GX dalam sebuah permainan.]"
+      }
+    ],
+    "Effects": [
+      "Ketika Pokémon-GX milik sendiri KO, pemain lawan akan mengambil 2 Kartu Point."
+    ],
+    "Weakness": "Lightning (×2)",
+    "Resistance": "-20",
+    "Retreat Cost": "Colorless / Colorless",
+    "Illustrator": "PLANETA Igarashi",
+    "Collector Number": "125/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003675.png",
+    "Description": ""
+  },
+  {
+    "Name": "Skitty",
+    "Stage": "basic",
+    "Card Type": "Pokémon",
+    "HP": "60",
+    "Type": "Colorless",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "Mengelabui",
+        "cost": "Colorless",
+        "damage": "10",
+        "effect": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "126/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003676.png",
+    "Description": "Skitty sering bermain dengan mengejar ekornya sendiri.Di alam bebas, Pokeon ini tinggal di dalam lubang pohon di hutan.Karena penampakannya yang menggemaskan, banyak yang menjadikannya binatang peliharaan."
+  },
+  {
+    "Name": "Delcatty",
+    "Stage": "Stage 1",
+    "Card Type": "Pokémon",
+    "HP": "90",
+    "Type": "Colorless",
+    "Abilities": [
+      {
+        "name": "Mencari Teman",
+        "effect": "Dapat digunakan 1 kali pada giliran sendiri saat memainkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Tambahkan 2 kartu Support dari Trash sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan."
+      }
+    ],
+    "Attacks": [
+      {
+        "name": "Tendangan Kucing",
+        "cost": "Colorless / Colorless",
+        "damage": "40",
+        "effect": ""
+      }
+    ],
+    "Effects": [],
+    "Weakness": "Fighting (×2)",
+    "Resistance": "--",
+    "Retreat Cost": "Colorless",
+    "Illustrator": "Sekio",
+    "Collector Number": "127/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003677.png",
+    "Description": "Delcatty tidur di manapun tanpa membuat sarang yang permanen. Jika ada Pokémon lain yang mendekat ketika ia tidur, Pokeomn ini tidak pernah marah atau melawan, ia hanya akan pergi ke tempat lain."
+  },
+  {
+    "Name": "Electric Power",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Kerusakan dari serangan Pokémon tipe {Listrik} sendiri terhadap Pokémon Bertarung lawan bertambah sejumlah 30 pada giliran ini."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Eske Yoshinob",
+    "Collector Number": "128/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003678.png",
+    "Description": ""
+  },
+  {
+    "Name": "Catatan Teman",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Kocok kembali 2 kartu Supporter dari Trash sendiri ke dalam Deck setelah memperlihatkannya ke lawan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "129/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003679.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Sarang",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Mainkan 1 Pokémon Basic dari Deck sendiri sebagai Pokémon Cadangan Sendiri. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "130/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003680.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Ultra",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Pemain harus membuang 2 Kartu Pegangan ke Trash untuk menggunakan kartu ini. Pengguna kartu memilih 1 Pokémon dari Deck sendiri lalu masukkan ke Kartu Pegangan setelah diperlihatkan ke pemain lawan. Kemudian, kocok Deck"
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ryo Ueda",
+    "Collector Number": "131/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003681.png",
+    "Description": ""
+  },
+  {
+    "Name": "Permen Langka",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Pilih 1 Pokémon Basic sendiri yang ada di Arena untuk berevolusi menjadi Pokémon Stage 2 yang sesuai dan ada dalam Kartu Pegangan. (Tidak dapat digunakan pada giliran sendiri yang pertama atau untuk Pokémon Basic yang baru dimainkan pada giliran ini)"
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "n/a",
+    "Collector Number": "132/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003682.png",
+    "Description": ""
+  },
+  {
+    "Name": "PokéNav",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Lihat 3 kartu dari atas Deck sendiri. Pemain dapat menambahkan 1 kartu Pokémon atau Energi di dalamnya ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kembalikan sisa kartu ke paling atas Deck dengan urutan sesukanya."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Katsura Tabata",
+    "Collector Number": "133/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003683.png",
+    "Description": ""
+  },
+  {
+    "Name": "Tukar Pokémon",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ryo Ueda",
+    "Collector Number": "134/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003684.png",
+    "Description": ""
+  },
+  {
+    "Name": "Pokémon Catcher",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 Pokémon Cadangan lawan lalu tukar dengan Pokémon Bertarung Lawan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "135/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003685.png",
+    "Description": ""
+  },
+  {
+    "Name": "Bola Lure",
+    "Stage": "",
+    "Card Type": "Item",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Lempar koin 3 kali. Tambahkan Pokémon Evolusi dari Trash sendiri ke Kartu Pegangan sejumlah hasil sisi depan setelah memperlihatkannya ke lawan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Katsura Tabata",
+    "Collector Number": "136/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003686.png",
+    "Description": ""
+  },
+  {
+    "Name": "Escape Board",
+    "Stage": "",
+    "Card Type": "Item\n                                                                                    Pokémon Tool",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Pokémon Tool]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan dan mengenakan Pokémon Tool pada Pokémon sendiri yang tidak mengenakan Pokémon Tool."
+      },
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Jumlah Energi yang dibutuhkan Pokémon yang dikenakan kartu ini untuk Mundur berkurang 1 dan juga bisa Mundur saat mengalami kondisi Tidur atau Lumpuh."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "137/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003687.png",
+    "Description": ""
+  },
+  {
+    "Name": "Counter Gain",
+    "Stage": "",
+    "Card Type": "Item\n                                                                                    Pokémon Tool",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Pokémon Tool]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan dan mengenakan Pokémon Tool pada Pokémon sendiri yang tidak mengenakan Pokémon Tool."
+      },
+      {
+        "name": "[Peraturan Item]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain dapat menggunakan lebih dari 1 lembar kartu Item pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Jika Kartu Point sendiri lebih banyak dari Kartu Point lawan, serangan dari Pokemon yang dikenakan kartu ini berkurang 1 {Bening}."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Toyste Beach",
+    "Collector Number": "138/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003688.png",
+    "Description": ""
+  },
+  {
+    "Name": "Pelajaran Prof. Elm",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Tambahkan paling banyak 3 Pokémon yang memiliki HP sama dengan atau kurang dari 60 dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Hideki Ishikawa",
+    "Collector Number": "139/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003689.png",
+    "Description": ""
+  },
+  {
+    "Name": "Wanita",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Tambahkan paling banyak 4 Energi dasar dari Deck sendiri ke Kartu Pegangan setelah memperlihatkannya ke lawan. Kemudian, kocok Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Yusuke Ohmura",
+    "Collector Number": "140/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003690.png",
+    "Description": ""
+  },
+  {
+    "Name": "Turis",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Ambil kartu dari Deck hingga jumlah Kartu Pegangan sendiri menjadi 5. Pemain dapat membuang Kartu Pegangan ke Trash sejumlah sesukanya sebelum mangambil kartu dari Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Naoki Saito",
+    "Collector Number": "141/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003691.png",
+    "Description": ""
+  },
+  {
+    "Name": "Judge",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Kedua pemain mengocok kembali semua Kartu Pegangan masing-masing ke dalam Deck. Kemudian, masing-masing pemain mengambil 4 kartu dari atas Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Sanosuke Sakuma",
+    "Collector Number": "142/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003692.png",
+    "Description": ""
+  },
+  {
+    "Name": "Cynthia",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Kocok kembali semua Kartu Pegangan sendiri ke dalam Deck. Kemudian, ambil 6 kartu dari atas Deck."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "143/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003693.png",
+    "Description": ""
+  },
+  {
+    "Name": "Samson Oak",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Ambil 2 kartu dari atas Deck sendiri. Jika Pokémon Bertarung kedua pemain memiliki tipe yang sama, ambil lagi 2 kartu tambahan."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Masakazu Fukuda",
+    "Collector Number": "144/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003694.png",
+    "Description": ""
+  },
+  {
+    "Name": "Looker",
+    "Stage": "",
+    "Card Type": "Supporter",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [
+      {
+        "name": "[Peraturan Supporter]",
+        "cost": "",
+        "damage": "",
+        "effect": "Pemain hanya dapat menggunakan 1 kartu Supporter pada giliran sendiri."
+      }
+    ],
+    "Effects": [
+      "Ambil 3 kartu dari bawah Deck sendiri."
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "Ken Sugimori",
+    "Collector Number": "145/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003695.png",
+    "Description": ""
+  },
+  {
+    "Name": "Energi Bening Ganda",
+    "Stage": "",
+    "Card Type": "Energi Spesial",
+    "HP": "",
+    "Type": "",
+    "Abilities": [],
+    "Attacks": [],
+    "Effects": [
+      "Kartu ini berlaku sebagai 2 Energi {Bening}"
+    ],
+    "Weakness": "",
+    "Resistance": "",
+    "Retreat Cost": "",
+    "Illustrator": "n/a",
+    "Collector Number": "146/146",
+    "Expansion Code": "",
+    "Image URL": "https://asia.pokemon-card.com/id/card-img/id00003696.png",
+    "Description": ""
+  }
+]
