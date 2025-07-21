@@ -26,7 +26,7 @@ Each `.json` file contains cards from **one expansion**.
 ## 🔗 Example Usage (Download Raw JSON)
 
 ```
-https://raw.githubusercontent.com/<your-username>/pokemon-card-database/main/data/id/cards_SV7s.json
+https://raw.githubusercontent.com/hakivin/pokemon-card-database/main/data/id/cards_SV7s.json
 ```
 
 In your app, fetch the file like this:
